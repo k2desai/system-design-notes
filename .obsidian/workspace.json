@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b06a8b67b7b142d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2bfbdf95bf6c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db6d893c622cba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff2b15deb15c8c2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f757ae864143a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1447b5bdba801b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e04f8af03a2712cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba47715231d57bca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb19f5fc2d75d2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ddb6352bb0ee13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cdfc6c6ecbddf2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "786124ea3b48bb64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4dd4aa8c32c68b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3401ceeb49832e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "66459c1395dba772",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c1447b5bdba801b5",
+  "lastOpenFiles": [
+    "topics/Pub Sub.md",
+    "README.md",
+    "topics/Websockets.md",
+    "topics",
+    "Reading List.md",
+    "Design Youtube.md",
+    "Youtube.md",
+    "Welcome.md",
+    "Makefile",
+    "templates/System Design Template.md",
+    "templates"
+  ]
+}
