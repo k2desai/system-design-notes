@@ -9,18 +9,17 @@ These are my notes to all system design questions
 - [ ] [[Uber]]
 - [ ] [[Twitter]]
 - [ ] [[News feed System]]
-- [ ] [[Instagram]]
-- [ ] [[URL Shortening Service]]
+- [ ] [[Instagram]] - Done
+- [ ] [[URL Shortening Service]] - Done
 - [ ] [[Web Crawler]]
 - [ ] [[Whatsapp/Facebook Messenger]]
 - [ ] [[Type ahead Suggestion]]
-- [x] [[DropBox / Google Drive]] ✅ 2024-04-13
-- [x] [[Rate Limiter]] ✅ 2024-04-12
+- [ ] [[DropBox / Google Drive]] - Done
+- [ ] [[Rate Limiter]] - Done
 - [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
 - [ ] [[Unique ID Generator]]
 - [ ] [[Notification System]]
-- [ ] [[Google Drive]]
 - [ ] [[Nearby Friends]]
 - [ ] [[Distributed Message Queue]]
 - [ ] [[Metrics Monitoring]]
@@ -37,9 +36,10 @@ These are my notes to all system design questions
 - [ ] [[Twitter Search]]
 - [ ] [[Ticketmaster]]
 - [ ] [[Google Docs]]
+- [ ] [[Amazon]]
 
 ### Resources For Deep Dive
 
-#### [[Websockets]]
+#### [[Communication Protocols]]
 #### [[Pub Sub]]
 

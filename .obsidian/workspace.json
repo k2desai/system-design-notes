@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DropBox.md",
+                "file": "System Design Questions/URL Shortening Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DropBox.md",
+                "file": "System Design Questions/URL Shortening Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DropBox.md",
+                "file": "System Design Questions/URL Shortening Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DropBox.md"
+                "file": "System Design Questions/URL Shortening Service.md"
               }
             }
           },
@@ -159,23 +159,37 @@
   },
   "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "README.md",
-    "DropBox.md",
-    "Instagram.md",
-    "topics/Pub Sub.md",
-    "topics/Websockets.md",
-    "templates/System Design Template.md",
-    "Youtube.md",
+    "topics/Mongo DB.md",
+    "System Design Questions/URL Shortening Service.md",
     "Reading List.md",
-    "Rate Limiter.md",
-    "Pasted image 20240412235158.png",
-    "Pasted image 20240412235149.png",
-    "Pasted image 20240412230630.png",
-    "Pasted image 20240412213701.png",
-    "Pasted image 20240412212548.png",
+    "Images/TinyURL Design.png",
+    "topics/Load Balancer.md",
+    "topics/Communication Protocols.md",
+    "topics/API Gateway.md",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/Unique ID Generator.md",
+    "README.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/News feed System.md",
+    "templates/System Design Template.md",
+    "Images/Dropbox Alternate Design.png",
+    "Images/Dropbox Alternate Design.png",
+    "Images/Instagram Design.png",
+    "Images/Dropbox Design.png",
+    "Images/Rate Limiter Design.png",
+    "Images/Pasted image 20240412212548.png",
+    "System Design Questions/Youtube.md",
+    "System Design Questions/DropBox.md",
+    "topics/REDIS.md",
+    "topics/Amazon S3.md",
+    "topics/Consistent Hashing.md",
+    "topics/CDN.md",
+    "Untitled.md",
+    "System Design Questions",
+    "topics/Pub Sub.md",
+    "Images",
     "Google Docs",
     "Untitled 1",
-    "Untitled",
     "topics",
     "Design Youtube.md",
     "Welcome.md",

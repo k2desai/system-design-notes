@@ -1,0 +1,1 @@
+Content Delivery Network that caches files close to the user to reduce latency.

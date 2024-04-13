@@ -1,4 +1,3 @@
-### Problem Description
 Dropbox is a cloud-based file storage service that allows users to store and share files. It provides a secure and reliable way to store and access files from anywhere, on any device.
 
 ### Questions to ask
@@ -93,28 +92,28 @@ Dropbox is a cloud-based file storage service that allows users to store and sha
 	```
 ### HLD
 
-![[Pasted image 20240412230630.png]]
+![[Dropbox Design.png]]
 
-1. **Uploader**: This is the client that uploads the file. It could be a web browser, a mobile app, or a desktop app.
-2. **Downloader**: This is the client that downloads the file. Of course, this can be the same client as the uploader, but it doesn't have to be.
-3. **LB & API Gateway**: This is the load balancer and API Gateway that sits in front of our application servers. It's responsible for routing requests to the appropriate server and handling things like SSL termination, rate limiting, and request validation.
-4. **File Service**: The file service is only responsible for writing to and from the file metadata db as well as requesting presigned URLs from S3. 
-5. **File Metadata DB**: This is where we store metadata about the files.
-6. **S3**: This is where the files are actually stored. 
-7. **CDN**: This is a content delivery network that caches files close to the user to reduce latency.
 
-![[Pasted image 20240412235158.png]]
+| Component    | Details                                                                                                                         | Technologies |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Uploader     | This is the client that uploads the file. It could be a web browser, a mobile app, or a desktop app.                            |              |
+| Downloader   | This is the client that downloads the file. Of course, this can be the same client as the uploader, but it doesn't have to be.  |              |
+| File Service | The file service is only responsible for writing to and from the file metadata db as well as requesting presigned URLs from S3. |              |
+
+
+![[Dropbox Alternate Design.png]]
 
 ### Database Choices
-1. File - blob storage like Amazon S3
-2. File metadata - loosely structured with few relations - can use DynamoDB, MongoDB, Cassandra. Could even use PostgreSQL - need sharding and hash-based partitioning. Overloaded partitions can be solved by consistent hashing
+1. File - blob storage like [[Amazon S3]]
+2. File metadata - loosely structured with few relations - can use DynamoDB, MongoDB, Cassandra. Could even use PostgreSQL - need sharding and hash-based partitioning. Overloaded partitions can be solved by [[Consistent Hashing]]
 3. For sharing - you can fully normalize the data and create a separate table for shares. Make an entry here every time a user shares a file with another user
 
 ### Interesting Algorithms/Approaches
 1. Client will chunk the file into 5-10Mb pieces and calculate a fingerprint for each chunk. It will also calculate a fingerprint for the entire file, this becomes the fileId.
 2. Client will send a GET request to fetch the FileMetadata for the file with the given fileId (fingerprint) in order to see if it already exists - in which case, we can resume the upload.
 3. If the file does not exist, the client will POST a request to /files/presigned-url to get a presigned URL for the file. The backend will save the file metadata in the FileMetadata table with a status of "uploading" and the chunks array will be a list of the chunk fingerprints with a status of "not-uploaded".
-4. Client will then upload each chunk to S3 using the presigned URL. After each chunk is uploaded, S3 will send a message to our backend using S3 event notifications. Our backend will then update the chunks field in the FileMetadata table to mark the chunk as "uploaded".
+4. Client will then upload each chunk to S3 using the [[Amazon S3#Presigned URLs]]. After each chunk is uploaded, S3 will send a message to our backend using [[Amazon S3#Event Notifications]]. Our backend will then update the chunks field in the FileMetadata table to mark the chunk as "uploaded".
 5. Once all chunks in our chunks array are marked as "uploaded", the backend will update the FileMetadata table to mark the file as "uploaded".
 
 ### Scaling Challenges
@@ -128,15 +127,15 @@ Dropbox is a cloud-based file storage service that allows users to store and sha
 	3. Compression (Gzip) - works well for text file, not as much for media / images 
 
 ### Deep Dive Topics
-1. Presigned URLs - provided by S3 to allow temporary access to private resources, generated with a specific expiration time, after which they become invalid, offering a secure way to share files without altering permissions. 
-2. AWS MultiPart upload 
-3. S3 event notifications 
-4. Move infrequently used data to cold storage - Amazon S3 Glacier 
+1. [[Amazon S3#Presigned URLs]]
+2. [[Amazon S3#MultiPart upload]]
+3. [[Amazon S3#Event Notifications]]
+4. Move infrequently used data to cold storage - [[Amazon S3#S3 Glacier]]
 5. File security - S3 can encrypt the files
 6. Merge conflicts - first version wins, second gets a conflict and needs to resolve before uploading 
 7. Notifications - 
-	1. Long polling (Dropbox)
-	2. WebSockets - not useful since its bidirectional
+	1. [[Communication Protocols#Long Polling]]
+	2. [[Communication Protocols#Websockets]] - not useful since its bidirectional
 
 ### References
 System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions

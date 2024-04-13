@@ -40,7 +40,7 @@ Design a rate limiter to prevent server from being overloaded and prevent resour
 
 ### HLD
 
-![[Pasted image 20240412213701.png]]
+![[Rate Limiter Design.png]]
 
 1. Choosing middleware for rate limiting
 2. Rules are stored on disk, worker pulls rule from disk and stores them on cache

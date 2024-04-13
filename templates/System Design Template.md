@@ -1,6 +1,3 @@
-
-## {{title}}
-
 ### Problem Description
 > Problem Description
 
