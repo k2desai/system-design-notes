@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Instagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Instagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Instagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Instagram.md"
               }
             }
           },
@@ -133,12 +133,20 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e75f155e81856bb4",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,18 +165,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1447b5bdba801b5",
+  "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "topics/Pub Sub.md",
+    "templates/System Design Template.md",
+    "Instagram.md",
     "README.md",
+    "Rate Limiter.md",
+    "Reading List.md",
+    "Youtube.md",
+    "topics/Pub Sub.md",
     "topics/Websockets.md",
     "topics",
-    "Reading List.md",
     "Design Youtube.md",
-    "Youtube.md",
     "Welcome.md",
     "Makefile",
-    "templates/System Design Template.md",
     "templates"
   ]
 }

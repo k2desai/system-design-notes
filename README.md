@@ -2,7 +2,7 @@ These are my notes to all system design questions
 
 ### Problem List
 
-- [ ] [[YouTube]]
+- [ ] [[YouTube/Netflix]]
 - [ ] [[Quora/Reddit]]
 - [ ] [[Google Maps]]
 - [ ] [[Proximity Service]]
@@ -12,9 +12,9 @@ These are my notes to all system design questions
 - [ ] [[Instagram]]
 - [ ] [[URL Shortening Service]]
 - [ ] [[Web Crawler]]
-- [ ] [[Whatsapp]]
+- [ ] [[Whatsapp/Facebook Messenger]]
 - [ ] [[Type ahead Suggestion]]
-- [ ] [[Google Docs]]
+- [ ] [[Google Docs/DropBox]]
 - [ ] [[Rate Limiter]]
 - [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
@@ -33,6 +33,9 @@ These are my notes to all system design questions
 - [ ] [[Digital Wallet]]
 - [ ] [[Stock Exchange]]
 - [ ] [[Top Heavy Hitters]]
+- [ ] [[Pastebin]]
+- [ ] [[Twitter Search]]
+- [ ] [[Ticketmaster]]
 
 ### Resources For Deep Dive
 

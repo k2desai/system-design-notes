@@ -1,8 +1,5 @@
-
-## {{title}}
-
 ### Problem Description
-> Problem Description
+> Design Instagram
 
 ### Questions to ask
 
