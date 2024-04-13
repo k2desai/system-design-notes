@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instagram.md",
+                "file": "DropBox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instagram.md",
+                "file": "DropBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instagram.md",
+                "file": "DropBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instagram.md"
+                "file": "DropBox.md"
               }
             }
           },
@@ -133,20 +133,12 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e75f155e81856bb4",
-            "type": "leaf",
-            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,14 +159,23 @@
   },
   "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "templates/System Design Template.md",
-    "Instagram.md",
     "README.md",
-    "Rate Limiter.md",
-    "Reading List.md",
-    "Youtube.md",
+    "DropBox.md",
+    "Instagram.md",
     "topics/Pub Sub.md",
     "topics/Websockets.md",
+    "templates/System Design Template.md",
+    "Youtube.md",
+    "Reading List.md",
+    "Rate Limiter.md",
+    "Pasted image 20240412235158.png",
+    "Pasted image 20240412235149.png",
+    "Pasted image 20240412230630.png",
+    "Pasted image 20240412213701.png",
+    "Pasted image 20240412212548.png",
+    "Google Docs",
+    "Untitled 1",
+    "Untitled",
     "topics",
     "Design Youtube.md",
     "Welcome.md",

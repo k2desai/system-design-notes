@@ -14,8 +14,8 @@ These are my notes to all system design questions
 - [ ] [[Web Crawler]]
 - [ ] [[Whatsapp/Facebook Messenger]]
 - [ ] [[Type ahead Suggestion]]
-- [ ] [[Google Docs/DropBox]]
-- [ ] [[Rate Limiter]]
+- [x] [[DropBox / Google Drive]] ✅ 2024-04-13
+- [x] [[Rate Limiter]] ✅ 2024-04-12
 - [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
 - [ ] [[Unique ID Generator]]
@@ -36,6 +36,7 @@ These are my notes to all system design questions
 - [ ] [[Pastebin]]
 - [ ] [[Twitter Search]]
 - [ ] [[Ticketmaster]]
+- [ ] [[Google Docs]]
 
 ### Resources For Deep Dive
 
