@@ -8,11 +8,11 @@ These are my notes to all system design questions
 - [ ] [[Proximity Service]]
 - [ ] [[Uber]]
 - [ ] [[Twitter]]
-- [ ] [[News feed System]]
+- [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
 - [ ] [[URL Shortening Service]] - Done
 - [ ] [[Web Crawler]]
-- [ ] [[Whatsapp/Facebook Messenger]]
+- [ ] [[Facebook Messenger]]
 - [ ] [[Type ahead Suggestion]]
 - [ ] [[DropBox / Google Drive]] - Done
 - [ ] [[Rate Limiter]] - Done
