@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/Cassandra.md",
+                "file": "Core Concepts/API Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/Cassandra.md",
+                "file": "Core Concepts/API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/Cassandra.md",
+                "file": "Core Concepts/API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/Cassandra.md"
+                "file": "Core Concepts/API Gateway.md"
               }
             }
           },
@@ -159,45 +159,47 @@
   },
   "active": "6db6d893c622cba7",
   "lastOpenFiles": [
+    "Encryption.md",
+    "Concepts.md",
     "README.md",
-    "topics/Cassandra.md",
     "Reading List.md",
-    "System Design Questions/News feed System.md",
-    "Images/Newsfeed Design.png",
-    "System Design Questions/Facebook Messenger.md",
-    "templates/System Design Template.md",
     "System Design Questions/Youtube.md",
     "System Design Questions/URL Shortening Service.md",
     "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Rate Limiter.md",
+    "System Design Questions/News feed System.md",
     "System Design Questions/Instagram.md",
+    "System Design Questions/Facebook Messenger.md",
     "System Design Questions/DropBox.md",
+    "Templates/System Design Template.md",
+    "Core Concepts/Cassandra.md",
+    "Images/Newsfeed Design.png",
     "Whatsapp",
-    "topics/Mongo DB.md",
+    "Core Concepts/Mongo DB.md",
     "Images/TinyURL Design.png",
-    "topics/Load Balancer.md",
-    "topics/Communication Protocols.md",
-    "topics/API Gateway.md",
+    "Core Concepts/Load Balancer.md",
+    "Core Concepts/Communication Protocols.md",
+    "Core Concepts/API Gateway.md",
     "Images/Dropbox Alternate Design.png",
     "Images/Dropbox Alternate Design.png",
     "Images/Instagram Design.png",
     "Images/Dropbox Design.png",
     "Images/Rate Limiter Design.png",
     "Images/Pasted image 20240412212548.png",
-    "topics/REDIS.md",
-    "topics/Amazon S3.md",
-    "topics/Consistent Hashing.md",
-    "topics/CDN.md",
+    "Core Concepts/REDIS.md",
+    "Core Concepts/Amazon S3.md",
+    "Core Concepts/Consistent Hashing.md",
+    "Core Concepts/CDN.md",
     "Untitled.md",
     "System Design Questions",
-    "topics/Pub Sub.md",
+    "Core Concepts/Pub Sub.md",
     "Images",
     "Google Docs",
     "Untitled 1",
-    "topics",
+    "Core Concepts",
     "Design Youtube.md",
     "Welcome.md",
     "Makefile",
-    "templates"
+    "Templates"
   ]
 }
