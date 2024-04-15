@@ -1,1 +1,1 @@
-In Cassandra, there is no masters, all nodes have same data with eventual consistency 
+In Cassandra, there is no masters, all nodes have same data with eventual consistency. You can use cassandra for write-heavy workflow like feeds, activity, etc 

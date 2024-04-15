@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/API Gateway.md",
+                "file": "System Design Questions/Facebook Messenger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Concepts/API Gateway.md",
+                "file": "System Design Questions/Facebook Messenger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Concepts/API Gateway.md",
+                "file": "System Design Questions/Facebook Messenger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Concepts/API Gateway.md"
+                "file": "System Design Questions/Facebook Messenger.md"
               }
             }
           },
@@ -159,30 +159,31 @@
   },
   "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "Encryption.md",
-    "Concepts.md",
-    "README.md",
-    "Reading List.md",
+    "System Design Questions/Instagram.md",
+    "Core Concepts/User Authentication.md",
+    "System Design Questions/Facebook Messenger.md",
+    "Images/Instagram Design.png",
+    "Core Concepts/Cassandra.md",
     "System Design Questions/Youtube.md",
     "System Design Questions/URL Shortening Service.md",
     "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Rate Limiter.md",
     "System Design Questions/News feed System.md",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/Facebook Messenger.md",
     "System Design Questions/DropBox.md",
+    "Concepts.md",
+    "Core Concepts/Encryption.md",
+    "Reading List.md",
+    "Core Concepts/API Gateway.md",
+    "README.md",
     "Templates/System Design Template.md",
-    "Core Concepts/Cassandra.md",
     "Images/Newsfeed Design.png",
     "Whatsapp",
     "Core Concepts/Mongo DB.md",
     "Images/TinyURL Design.png",
     "Core Concepts/Load Balancer.md",
     "Core Concepts/Communication Protocols.md",
-    "Core Concepts/API Gateway.md",
     "Images/Dropbox Alternate Design.png",
     "Images/Dropbox Alternate Design.png",
-    "Images/Instagram Design.png",
     "Images/Dropbox Design.png",
     "Images/Rate Limiter Design.png",
     "Images/Pasted image 20240412212548.png",
@@ -198,7 +199,6 @@
     "Untitled 1",
     "Core Concepts",
     "Design Youtube.md",
-    "Welcome.md",
     "Makefile",
     "Templates"
   ]
