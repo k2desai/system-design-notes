@@ -1,5 +1,3 @@
-These are my notes to all system design questions
-
 ### Problem List
 
 - [ ] [[YouTube/Netflix]]
@@ -37,9 +35,3 @@ These are my notes to all system design questions
 - [ ] [[Ticketmaster]]
 - [ ] [[Google Docs]]
 - [ ] [[Amazon]]
-
-### Resources For Deep Dive
-
-#### [[Communication Protocols]]
-#### [[Pub Sub]]
-

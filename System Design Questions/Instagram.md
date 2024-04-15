@@ -96,7 +96,8 @@ __Uploading Workflow__
 ### Database Choices
 1. [[Amazon S3]] for storing photos and videos 
 2. [[REDIS]] key-value store to store the timeline 
-3. Relational database for user and content metadata 
+3. Relational database for user and content metadata - eg. postgreSQL with leader-follower replication (write to leader, read from followers). You could write to a leader in a different region, but batch the writes so that latency is not a problem
+4. [[Cassandra]] for user feeds, activities, etc since it is write heavy 
 
 ### Interesting Algorithms/Approaches
 1. Generating timeline / newsfeed - hybrid approach. Celebrities updates are **pulled** when user following them logs in. Normal users updates are **pushed** to their followers as and when they are made. Both are combined to generate timeline. 
