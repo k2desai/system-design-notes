@@ -1,1 +1,1 @@
-In Cassandra, there is no masters, all nodes have same data with eventual consistency 
+In Cassandra, there is no master, all nodes have same data with eventual consistency 

@@ -29,17 +29,19 @@
 4. Read volume = 50 million * 20 requests = 1 billion requests / day = 10000 QPS. Peak QPS = 20000
 
 ### APIs
-1. POST /postMedia
-		postMedia(userId, mediaType, hashtags, caption)
-2. POST /followUser , /unfollowUser
+
+1. POST /media 
+2. POST /post
+		post(userId, mediaType, hashtags, caption)
+3. POST /{user_id}/follow , /{user_id}/unfollow
 		followUser(userId, targetUserId)
 		unfollowUser(userId, targetUserId)
-3. POST /likePost , /dislikePost
+4. POST /likePost , /dislikePost
 		likePost(userId, postId)
 		dislikePost(userId, postId)
-4. GET /searchPhotos
+5. GET /searchPhotos
 		searchPhotos(userId, keyword)
-5. GET /viewNewsFeed
+6. GET /viewNewsFeed
 		viewNewsFeed(userId)
 
 ### Object Model
@@ -50,7 +52,36 @@
 
 ### HLD
 
-![[Instagram Design.png]]
+![[Instagram Design v2.png]]
+
+#### Components
+
+##### Media Service
+
+Handles uploading and serving media files (images + videos). Two possible implementations -
+
+- Media service accepts the media, stores it to a staging area and submits it to the processing pipeline. In order to handle partial failures, the client can chunk the file into segments and upload the segments in order.
+
+| Pro                 | Cons                                                           |
+| ------------------- | -------------------------------------------------------------- |
+| Simple to implement | Media service needs to support very high bandwidth             |
+|                     | Dedupe media files (in case they are shared or client retries) |
+
+- Media service returns a pre-signed URL (an S3 offering that includes a link to upload data to s3, with a temporary authentication)
+
+
+| Pro                                             | Cons                                                                                                           |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| S3 can handle bandwidth requirements and dedupe | A S3 feature that may not be offered by other data stores                                                      |
+|                                                 | Susceptible to DDoS attack, a malicious client could send multiple upload requests and potentially overflow S3 |
+
+
+__Uploading Workflow__
+
+1. Client requests media service to initiate an upload. Media service responds with a media id and a handle to upload data
+2. Client makes multiple requests with the media id in the header and media segment in the payload. Receives a segment id as the response
+3. Once all segments are uploaded, the client sends a manifest file with the segment ids. Media service recons the manifest file with storage and combines the segment into the full file.
+4. The media file is passed through 
 
 
 | Component        | Details                                                                                                                                                                                                                                                                                                                                                                                                     |
