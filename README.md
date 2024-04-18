@@ -1,6 +1,6 @@
 ### Problem List
 
-- [ ] [[YouTube/Netflix]]
+- [ ] [[YouTube/Netflix]] - Done
 - [ ] [[Quora/Reddit]]
 - [ ] [[Google Maps]]
 - [ ] [[Proximity Service]]
@@ -10,7 +10,7 @@
 - [ ] [[Instagram]] - Done
 - [ ] [[URL Shortening Service]] - Done
 - [ ] [[Web Crawler]]
-- [ ] [[Facebook Messenger]]
+- [ ] [[Facebook Messenger]] - Done
 - [ ] [[Type ahead Suggestion]]
 - [ ] [[DropBox / Google Drive]] - Done
 - [ ] [[Rate Limiter]] - Done
@@ -29,7 +29,7 @@
 - [ ] [[Payment System]]
 - [ ] [[Digital Wallet]]
 - [ ] [[Stock Exchange]]
-- [ ] [[Top Heavy Hitters]]
+- [ ] [[Top Heavy Hitters]] - Done
 - [ ] [[Pastebin]]
 - [ ] [[Twitter Search]]
 - [ ] [[Ticketmaster]]

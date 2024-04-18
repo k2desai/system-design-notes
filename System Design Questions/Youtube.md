@@ -41,7 +41,7 @@
 
 ### HLD
 
-![[Pasted image 20240417120417.png]]
+![[Youtube Design.png]]
 
 
 | Component      | Details                                                                                                               |
