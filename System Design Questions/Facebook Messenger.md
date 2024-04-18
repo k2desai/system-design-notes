@@ -52,9 +52,10 @@ Regular load balancing algorithms - with the userId to server mapping being held
 2. Establishes websocket connection with the selected chat server 
 3. User sends a message to the chat server 
 4. Message gets written to pub-sub channel (Redis pubsub / Kafka) - this pub-sub channel can be partitioned by user id 
-5. Chat server subscribes to the pub-sub for its user ids 
-6. Message is received from pub-sub channel and delivered to client 
-7. If the client wants to send media, it first sends the media to the media service. (Another option is uploading media directly from client side using presigned urls but for file sizes upto few MB, this might be an overkill). Media service gives back the url of the file stored in S3. Client will then send this link as part of its message. See [[Instagram#Media Service]]
+5. In addition, it also checks if recipient is offline, if it is, then send to notification service
+6. Chat server subscribes to the pub-sub for its user ids 
+7. Message is received from pub-sub channel and delivered to client 
+8. If the client wants to send media, it first sends the media to the media service. (Another option is uploading media directly from client side using presigned urls but for file sizes upto few MB, this might be an overkill). Media service gives back the url of the file stored in S3. Client will then send this link as part of its message. See [[Instagram#Media Service]]
 
 **Online status:**
 This can be maintained by the chat service. The status is maintained depending on if the client is connected to the chat server via websocket. While the client is connected, it will send a heartbeat and it is considered online. If the client goes offline, i.e. no heartbeats for over 10 seconds, client can be marked offline. Status is stored / updated in a distributed Redis cluster. Lookup for a user status can happen by looking up the entry in the Redis database. Setting and reading status has to be via websockets since we need to continuously set / read status as it can change anytime. 
@@ -85,3 +86,4 @@ System Design Interview – An insider's guide, Second Edition: Step by Step Gui
 https://www.educative.io/courses/grokking-the-system-design-interview/B8R22v0wqJo
 https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-whatsapp
 https://systemdesign.one/slack-architecture/ 
+https://discord.com/blog/how-discord-stores-trillions-of-messages

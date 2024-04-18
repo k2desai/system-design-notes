@@ -1,4 +1,0 @@
-
-### Presigned URL
-
-ABC

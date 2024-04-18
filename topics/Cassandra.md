@@ -1,1 +1,0 @@
-In Cassandra, there is no master, all nodes have same data with eventual consistency 
