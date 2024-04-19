@@ -3,8 +3,8 @@
 - [ ] [[YouTube/Netflix]] - Done
 - [ ] [[Quora/Reddit]]
 - [ ] [[Google Maps]]
-- [ ] [[Proximity Service]]
-- [ ] [[Uber]]
+- [ ] [[Proximity Service]] - Done
+- [ ] [[Uber]] - Done
 - [ ] [[Twitter]]
 - [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
@@ -18,7 +18,7 @@
 - [ ] [[Key-Value Store]]
 - [ ] [[Unique ID Generator]]
 - [ ] [[Notification System]]
-- [ ] [[Nearby Friends]]
+- [ ] [[Nearby Friends]] - Done
 - [ ] [[Distributed Message Queue]]
 - [ ] [[Metrics Monitoring]]
 - [ ] [[Ad Click Event Aggregation]]

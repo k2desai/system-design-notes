@@ -51,4 +51,5 @@ Design a system like Yelp
 
 ### References
 https://www.educative.io/courses/grokking-the-system-design-interview/B8rpM8E16LQ
+https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-yelp
 System Design Interview An Insiders Guide Volume 2
