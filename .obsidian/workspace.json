@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2bfbdf95bf6c82",
+        "id": "40b9238cc38ae646",
         "type": "tabs",
         "children": [
           {
-            "id": "6db6d893c622cba7",
+            "id": "a381cabd7d03e9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Uber.md",
+                "file": "Core Concepts/Location algorithms.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8189aad1816758",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Uber Design.png"
               }
             }
           }
@@ -79,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Uber.md",
+                "file": "Core Concepts/Location algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Uber.md",
+                "file": "Core Concepts/Location algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Uber.md"
+                "file": "Core Concepts/Location algorithms.md"
               }
             }
           },
@@ -143,20 +133,12 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e75f155e81856bb4",
-            "type": "leaf",
-            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,50 +157,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6db6d893c622cba7",
+  "active": "a381cabd7d03e9df",
   "lastOpenFiles": [
+    "System Design Questions/Proximity Service.md",
+    "Images/Proximity Service Design.png",
+    "Images/Uber Design.png",
+    "Core Concepts/Location algorithms.md",
+    "Images/Geohashing.png",
+    "Images/Geohashing range.png",
+    "Templates/System Design Template.md",
     "README.md",
     "System Design Questions/Uber.md",
-    "Images/Uber Design.png",
-    "Templates/System Design Template.md",
-    "Core Concepts/Location algorithms.md",
-    "System Design Questions/Facebook Messenger.md",
-    "System Design Questions/News feed System.md",
-    "Core Concepts/User Authentication.md",
-    "Reading List.md",
-    "Core Concepts/Cassandra.md",
-    "topics/Cassandra.md",
-    "Concepts.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/URL Shortening Service.md",
+    "System Design Questions/Notification System.md",
     "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Notification System.md",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/DropBox.md",
-    "Images/Youtube Design.png",
     "Images/Top Heavy Hitters Design.png",
+    "Images/Top Heavy Hitters Design.png",
+    "Images/Youtube Design.png",
+    "Reading List.md",
+    "System Design Questions/Facebook Messenger.md",
+    "System Design Questions/Instagram.md",
     "Images/Messenger Design.png",
-    "templates/System Design Template.md",
-    "Instagram.md",
-    "Templates",
-    "System Design Questions",
-    "Images/TinyURL Design.png",
-    "Images/Rate Limiter Design.png",
+    "Images/Messenger Design.png",
     "Images/Instagram Design v2.png",
-    "Images/Newsfeed Design.png",
-    "Images/Instagram Design.png",
-    "Images/Dropbox Design.png",
-    "Images/Instagram Design v2",
-    "Images",
-    "Core Concepts/Communication Protocols.md",
-    "Core Concepts/REDIS.md",
-    "Core Concepts/Pub Sub.md",
-    "Core Concepts/Mongo DB.md",
-    "Core Concepts",
+    "System Design Questions/News feed System.md",
+    "topics/Cassandra.md",
     "topics",
+    "Images/Instagram Design v2",
+    "Core Concepts/Caching.md",
+    "Core Concepts/User Authentication.md",
+    "Core Concepts/Cassandra.md",
+    "System Design Questions/Youtube.md",
+    "System Design Questions/URL Shortening Service.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/DropBox.md",
+    "Concepts.md",
+    "Core Concepts/Encryption.md",
+    "Core Concepts/API Gateway.md",
+    "Whatsapp",
+    "Core Concepts/Mongo DB.md",
+    "Core Concepts/Load Balancer.md",
+    "System Design Questions",
+    "Images",
+    "Google Docs",
+    "Untitled 1",
+    "Core Concepts",
     "Makefile",
-    "templates"
+    "Templates"
   ]
 }
