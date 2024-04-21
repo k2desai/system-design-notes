@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Nearby Friends.md",
+                "file": "System Design Questions/Google Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Nearby Friends.md",
+                "file": "System Design Questions/Google Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Nearby Friends.md",
+                "file": "System Design Questions/Google Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Nearby Friends.md"
+                "file": "System Design Questions/Google Maps.md"
               }
             }
           },
@@ -157,16 +157,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a381cabd7d03e9df",
+  "active": "c1447b5bdba801b5",
   "lastOpenFiles": [
-    "Core Concepts/REDIS.md",
+    "Images/Google Maps Design.png",
+    "Core Concepts/Communication Protocols.md",
+    "System Design Questions/Google Maps.md",
+    "Images/Google Maps Design v2.png",
+    "Core Concepts/Location algorithms.md",
+    "Templates/System Design Template.md",
+    "README.md",
+    "System Design Questions/Top Heavy Hitters.md",
     "System Design Questions/Nearby Friends.md",
+    "Core Concepts/REDIS.md",
     "System Design Questions/Notification System.md",
     "System Design Questions/News feed System.md",
     "Core Concepts/Cassandra.md",
     "Images/Nearby Friends Design.png",
     "System Design Questions/Proximity Service.md",
-    "System Design Questions/Top Heavy Hitters.md",
     "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Youtube.md",
     "System Design Questions/URL Shortening Service.md",
@@ -175,9 +182,6 @@
     "System Design Questions/Instagram.md",
     "System Design Questions/Facebook Messenger.md",
     "System Design Questions/DropBox.md",
-    "README.md",
-    "Templates/System Design Template.md",
-    "Core Concepts/Location algorithms.md",
     "Images/Proximity Service Design.png",
     "Images/Uber Design.png",
     "Images/Geohashing.png",
@@ -187,15 +191,12 @@
     "Images/Youtube Design.png",
     "Reading List.md",
     "Images/Messenger Design.png",
-    "Images/Messenger Design.png",
     "topics/Cassandra.md",
     "topics",
     "Images/Instagram Design v2",
     "Core Concepts/Caching.md",
     "Core Concepts/User Authentication.md",
     "Concepts.md",
-    "Core Concepts/Encryption.md",
-    "Core Concepts/API Gateway.md",
     "Whatsapp",
     "System Design Questions",
     "Images",

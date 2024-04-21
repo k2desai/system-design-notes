@@ -20,7 +20,7 @@ Due to the long server startup time, we should roll out new releases incremental
 
 
 ### Contraction hierarchy
-Contraction hierarchy is a speed-up method optimized to exploit the properties of graphs representing road networks. The speed-up is achieved by creating shortcuts in a preprocessing phase, which are then used during a shortest-path query to skip over unimportant vertices. Source: Wikipedia
+Contraction hierarchy is a speed-up method optimized to exploit the properties of graphs representing road networks. The speed-up is achieved by creating shortcuts in a preprocessing phase, which are then used during a shortest-path query to skip over unimportant vertices. 
 
 ### References
 https://tarunjain07.medium.com/geospatial-geohash-notes-15cbc50b329d 
