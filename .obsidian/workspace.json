@@ -4,45 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "40b9238cc38ae646",
+        "id": "aa2bfbdf95bf6c82",
         "type": "tabs",
         "children": [
           {
-            "id": "a381cabd7d03e9df",
+            "id": "6db6d893c622cba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Metrics Monitoring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f253d20beb8b34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design Questions/Hotel Reservation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e7ec51e9e8409f1",
+            "id": "ed8189aad1816758",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Ticketmaster Design.png"
+                "file": "Images/Uber Design.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Hotel Reservation.md",
+                "file": "System Design Questions/Metrics Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Hotel Reservation.md",
+                "file": "System Design Questions/Metrics Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Hotel Reservation.md"
+                "file": "System Design Questions/Metrics Monitoring.md"
               }
             }
           },
@@ -156,12 +143,20 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e75f155e81856bb4",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,52 +175,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f253d20beb8b34a",
+  "active": "c1447b5bdba801b5",
   "lastOpenFiles": [
+    "Images/Alerting Design.png",
+    "Images/Metrics Monitoring Design.png",
     "System Design Questions/Google Maps.md",
-    "System Design Questions/Hotel Reservation.md",
-    "Images/Hotel Reservation Design.png",
-    "Core Concepts/Database Transactions.md",
+    "System Design Questions/Metrics Monitoring.md",
     "README.md",
     "System Design Questions/Ad Click Event Aggregation.md",
-    "System Design Questions/Ticketmaster.md",
-    "Core Concepts/Communication Protocols.md",
-    "Core Concepts/Load Balancer.md",
-    "Images/Ticketmaster Design.png",
-    "System Design Questions/News feed System.md",
     "Templates/System Design Template.md",
-    "Core Concepts/Caching.md",
-    "System Design Questions/Nearby Friends.md",
-    "System Design Questions/Local Delivery like GoPuff.md",
-    "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/DropBox.md",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/URL Shortening Service.md",
+    "Core Concepts/Location algorithms.md",
+    "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Hotel Reservation.md",
+    "Images/Ticketmaster Design.png",
+    "Images/Hotel Reservation Design.png",
     "Images/Google Maps Design.png",
     "Images/Google Maps Design v2.png",
-    "Core Concepts/Location algorithms.md",
-    "Core Concepts/REDIS.md",
-    "System Design Questions/Notification System.md",
-    "Core Concepts/Cassandra.md",
-    "Images/Nearby Friends Design.png",
+    "Core Concepts/Database Transactions.md",
     "System Design Questions/Proximity Service.md",
-    "System Design Questions/Unique ID Generator.md",
+    "System Design Questions/News feed System.md",
+    "System Design Questions/Nearby Friends.md",
     "Images/Proximity Service Design.png",
-    "Images/Uber Design.png",
+    "Images/Nearby Friends Design.png",
     "Images/Geohashing.png",
     "Images/Geohashing range.png",
-    "Images/Top Heavy Hitters Design.png",
-    "topics",
-    "Images/Instagram Design v2",
-    "Whatsapp",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/Facebook Messenger.md",
+    "System Design Questions/DropBox.md",
+    "System Design Questions/Notification System.md",
+    "System Design Questions/Uber.md",
+    "Images/Uber Design.png",
+    "Core Concepts/User Authentication.md",
+    "Reading List.md",
+    "Core Concepts/Cassandra.md",
+    "topics/Cassandra.md",
+    "Concepts.md",
+    "System Design Questions/Youtube.md",
+    "System Design Questions/URL Shortening Service.md",
+    "System Design Questions/Unique ID Generator.md",
+    "Templates",
     "System Design Questions",
+    "Images/Instagram Design v2",
     "Images",
-    "Google Docs",
-    "Untitled 1",
     "Core Concepts",
+    "topics",
     "Makefile",
-    "Templates"
+    "templates"
   ]
 }
