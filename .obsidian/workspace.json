@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Google Maps.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f253d20beb8b34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Questions/Ticketmaster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7ec51e9e8409f1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Ticketmaster Design.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Google Maps.md",
+                "file": "System Design Questions/Ticketmaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Google Maps.md",
+                "file": "System Design Questions/Ticketmaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Google Maps.md"
+                "file": "System Design Questions/Ticketmaster.md"
               }
             }
           },
@@ -157,46 +180,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1447b5bdba801b5",
+  "active": "1f253d20beb8b34a",
   "lastOpenFiles": [
-    "Images/Google Maps Design.png",
     "Core Concepts/Communication Protocols.md",
-    "System Design Questions/Google Maps.md",
-    "Images/Google Maps Design v2.png",
-    "Core Concepts/Location algorithms.md",
+    "System Design Questions/Ticketmaster.md",
+    "Core Concepts/Load Balancer.md",
+    "Images/Ticketmaster Design.png",
+    "System Design Questions/News feed System.md",
+    "System Design Questions/Hotel Reservation.md",
     "Templates/System Design Template.md",
     "README.md",
-    "System Design Questions/Top Heavy Hitters.md",
+    "Core Concepts/Caching.md",
+    "System Design Questions/Google Maps.md",
     "System Design Questions/Nearby Friends.md",
+    "System Design Questions/Local Delivery like GoPuff.md",
+    "System Design Questions/Top Heavy Hitters.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/Youtube.md",
+    "System Design Questions/DropBox.md",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/URL Shortening Service.md",
+    "Images/Google Maps Design.png",
+    "Images/Google Maps Design v2.png",
+    "Core Concepts/Location algorithms.md",
     "Core Concepts/REDIS.md",
     "System Design Questions/Notification System.md",
-    "System Design Questions/News feed System.md",
     "Core Concepts/Cassandra.md",
     "Images/Nearby Friends Design.png",
     "System Design Questions/Proximity Service.md",
     "System Design Questions/Unique ID Generator.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/URL Shortening Service.md",
     "System Design Questions/Uber.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Instagram.md",
     "System Design Questions/Facebook Messenger.md",
-    "System Design Questions/DropBox.md",
     "Images/Proximity Service Design.png",
     "Images/Uber Design.png",
     "Images/Geohashing.png",
     "Images/Geohashing range.png",
     "Images/Top Heavy Hitters Design.png",
     "Images/Top Heavy Hitters Design.png",
-    "Images/Youtube Design.png",
     "Reading List.md",
-    "Images/Messenger Design.png",
-    "topics/Cassandra.md",
     "topics",
     "Images/Instagram Design v2",
-    "Core Concepts/Caching.md",
-    "Core Concepts/User Authentication.md",
-    "Concepts.md",
     "Whatsapp",
     "System Design Questions",
     "Images",

@@ -2,7 +2,7 @@
 
 - [ ] [[YouTube/Netflix]] - Done
 - [ ] [[Quora/Reddit]]
-- [ ] [[Google Maps]]
+- [ ] [[Google Maps]] - Done
 - [ ] [[Proximity Service]] - Done
 - [ ] [[Uber]] - Done
 - [ ] [[Twitter]]
