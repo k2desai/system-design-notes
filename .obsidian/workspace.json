@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Ticketmaster.md",
+                "file": "System Design Questions/Hotel Reservation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Ticketmaster.md",
+                "file": "System Design Questions/Hotel Reservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Ticketmaster.md",
+                "file": "System Design Questions/Hotel Reservation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Ticketmaster.md"
+                "file": "System Design Questions/Hotel Reservation.md"
               }
             }
           },
@@ -182,16 +182,19 @@
   },
   "active": "1f253d20beb8b34a",
   "lastOpenFiles": [
-    "Core Concepts/Communication Protocols.md",
+    "System Design Questions/Google Maps.md",
+    "System Design Questions/Hotel Reservation.md",
+    "Images/Hotel Reservation Design.png",
+    "Core Concepts/Database Transactions.md",
+    "README.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
     "System Design Questions/Ticketmaster.md",
+    "Core Concepts/Communication Protocols.md",
     "Core Concepts/Load Balancer.md",
     "Images/Ticketmaster Design.png",
     "System Design Questions/News feed System.md",
-    "System Design Questions/Hotel Reservation.md",
     "Templates/System Design Template.md",
-    "README.md",
     "Core Concepts/Caching.md",
-    "System Design Questions/Google Maps.md",
     "System Design Questions/Nearby Friends.md",
     "System Design Questions/Local Delivery like GoPuff.md",
     "System Design Questions/Top Heavy Hitters.md",
@@ -209,15 +212,11 @@
     "Images/Nearby Friends Design.png",
     "System Design Questions/Proximity Service.md",
     "System Design Questions/Unique ID Generator.md",
-    "System Design Questions/Uber.md",
-    "System Design Questions/Facebook Messenger.md",
     "Images/Proximity Service Design.png",
     "Images/Uber Design.png",
     "Images/Geohashing.png",
     "Images/Geohashing range.png",
     "Images/Top Heavy Hitters Design.png",
-    "Images/Top Heavy Hitters Design.png",
-    "Reading List.md",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",

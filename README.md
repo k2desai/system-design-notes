@@ -22,7 +22,7 @@
 - [ ] [[Distributed Message Queue]]
 - [ ] [[Metrics Monitoring]]
 - [ ] [[Ad Click Event Aggregation]]
-- [ ] [[Hotel Reservation]]
+- [ ] [[Hotel Reservation]] - Done
 - [ ] [[Distributed Email Service]]
 - [ ] [[S3-like Object Storage]]
 - [ ] [[Real-time Gaming Leader board]]
@@ -32,7 +32,7 @@
 - [ ] [[Top Heavy Hitters]] - Done
 - [ ] [[Pastebin]]
 - [ ] [[Twitter Search]]
-- [ ] [[Ticketmaster]]
+- [ ] [[Ticketmaster]] - Done
 - [ ] [[Google Docs]]
 - [ ] [[Amazon]]
 - [ ] [[Distributed Cache]]

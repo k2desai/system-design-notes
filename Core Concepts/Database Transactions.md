@@ -1,0 +1,5 @@
+### Two Phase Commit
+Two-phase commit (2PC) is a protocol use to implement atomic transactions across multiple processes. Two phases – prepare and commit. One process (generally the client application that initiates the transaction) acts as a coordinator and orchestrates the actions of other processes called participants. Coordinator sends a prepare request asking if they are ready to commit the transaction. If all participants are ready to commit, it sends a commit message ordering them to do so. If any process doesn’t respond or is unable to commit, the coordinator sends an abort request.
+
+### Sagas
+The saga pattern is a distributed transaction consisting of local transactions T1, T2, … , Tn. Each has a corresponding compensating local transaction Ci to undo its changes. Saga guarantees that either all local transactions succeed or in the case of failure, compensating local transactions undo partial execution of the transaction – thus atomicity. Saga can be implemented with an orchestrator that manages local transactions across the participants.
