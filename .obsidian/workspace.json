@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Metrics Monitoring.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8189aad1816758",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Uber Design.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Metrics Monitoring.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Metrics Monitoring.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Metrics Monitoring.md"
+                "file": "README.md"
               }
             }
           },
@@ -143,20 +133,12 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e75f155e81856bb4",
-            "type": "leaf",
-            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,51 +157,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1447b5bdba801b5",
+  "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "Images/Alerting Design.png",
-    "Images/Metrics Monitoring Design.png",
-    "System Design Questions/Google Maps.md",
-    "System Design Questions/Metrics Monitoring.md",
-    "README.md",
-    "System Design Questions/Ad Click Event Aggregation.md",
+    "Reading List.md",
+    "System Design Questions/Twitter Search.md",
+    "Core Concepts/Pagination.md",
+    "Images/Twitter Search Design.png",
     "Templates/System Design Template.md",
-    "Core Concepts/Location algorithms.md",
+    "README.md",
     "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Metrics Monitoring.md",
     "System Design Questions/Hotel Reservation.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
     "Images/Ticketmaster Design.png",
+    "Images/Metrics Monitoring Design.png",
     "Images/Hotel Reservation Design.png",
+    "Images/Alerting Design.png",
+    "Core Concepts/Database Transactions.md",
+    "System Design Questions/Facebook Messenger.md",
+    "System Design Questions/Google Maps.md",
     "Images/Google Maps Design.png",
     "Images/Google Maps Design v2.png",
-    "Core Concepts/Database Transactions.md",
-    "System Design Questions/Proximity Service.md",
     "System Design Questions/News feed System.md",
     "System Design Questions/Nearby Friends.md",
+    "System Design Questions/DropBox.md",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/Uber.md",
+    "System Design Questions/Proximity Service.md",
+    "Images/Uber Design.png",
     "Images/Proximity Service Design.png",
     "Images/Nearby Friends Design.png",
-    "Images/Geohashing.png",
-    "Images/Geohashing range.png",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/Facebook Messenger.md",
-    "System Design Questions/DropBox.md",
+    "Core Concepts/Location algorithms.md",
+    "System Design Questions/Top Heavy Hitters.md",
     "System Design Questions/Notification System.md",
-    "System Design Questions/Uber.md",
-    "Images/Uber Design.png",
-    "Core Concepts/User Authentication.md",
-    "Reading List.md",
-    "Core Concepts/Cassandra.md",
-    "topics/Cassandra.md",
-    "Concepts.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/URL Shortening Service.md",
-    "System Design Questions/Unique ID Generator.md",
     "Templates",
-    "System Design Questions",
-    "Images/Instagram Design v2",
-    "Images",
+    "Core Concepts/User Authentication.md",
+    "Core Concepts/REDIS.md",
+    "Core Concepts/Pub Sub.md",
+    "Core Concepts/Mongo DB.md",
+    "Core Concepts/Load Balancer.md",
     "Core Concepts",
-    "topics",
-    "Makefile",
-    "templates"
+    "Images/Instagram Design v2.png.crswap",
+    "Images/Instagram Design v2.crswap",
+    "Images/Instagram Design v2",
+    "Whatsapp",
+    "System Design Questions",
+    "Images",
+    "Google Docs",
+    "Untitled 1"
   ]
 }

@@ -20,7 +20,7 @@
 - [ ] [[Notification System]]
 - [ ] [[Nearby Friends]] - Done
 - [ ] [[Distributed Message Queue]]
-- [ ] [[Metrics Monitoring]]
+- [ ] [[Metrics Monitoring]] - Done 
 - [ ] [[Ad Click Event Aggregation]]
 - [ ] [[Hotel Reservation]] - Done
 - [ ] [[Distributed Email Service]]
@@ -31,7 +31,7 @@
 - [ ] [[Stock Exchange]]
 - [ ] [[Top Heavy Hitters]] - Done
 - [ ] [[Pastebin]]
-- [ ] [[Twitter Search]]
+- [ ] [[Twitter Search]] - Done
 - [ ] [[Ticketmaster]] - Done
 - [ ] [[Google Docs]]
 - [ ] [[Amazon]]
