@@ -1,7 +1,7 @@
 ### Problem List
 
 - [ ] [[YouTube/Netflix]] - Done
-- [ ] [[Quora/Reddit]]
+- [ ] [[Quora]] - Done 
 - [ ] [[Google Maps]] - Done
 - [ ] [[Proximity Service]] - Done
 - [ ] [[Uber]] - Done

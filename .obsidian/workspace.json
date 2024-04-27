@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Web Crawler.md",
+                "file": "System Design Questions/Notification System.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 295.5
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Web Crawler.md",
+                "file": "System Design Questions/Notification System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Web Crawler.md",
+                "file": "System Design Questions/Notification System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Web Crawler.md"
+                "file": "System Design Questions/Notification System.md"
               }
             }
           },
@@ -182,41 +182,42 @@
   },
   "active": "1f253d20beb8b34a",
   "lastOpenFiles": [
+    "System Design Questions/Unique ID Generator.md",
+    "System Design Questions/Rate Limiter.md",
+    "Templates/System Design Template.md",
+    "System Design Questions/Notification System.md",
     "README.md",
+    "System Design Questions/Top Heavy Hitters.md",
+    "System Design Questions/Quora.md",
+    "Images/Quora Design.png",
+    "System Design Questions/Youtube.md",
+    "Quora",
+    "Reading List.md",
     "System Design Questions/Web Crawler.md",
     "Images/Web Crawler Design.png",
     "Core Concepts/Bloom filters.md",
-    "System Design Questions/Rate Limiter.md",
     "System Design Questions/Hotel Reservation.md",
     "System Design Questions/Twitter.md",
     "System Design Questions/News feed System.md",
-    "System Design Questions/Notification System.md",
     "Core Concepts/Mongo DB.md",
     "Core Concepts/Load Balancer.md",
     "Images/Twitter Design.png",
-    "Reading List.md",
     "Images/Twitter Design.png",
     "Images/Twitter Design.png",
-    "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Twitter Search.md",
     "System Design Questions/Instagram.md",
     "System Design Questions/Ticketmaster.md",
     "Core Concepts/Stats.md",
     "System Design Questions/Ad Click Event Aggregation.md",
-    "Templates/System Design Template.md",
     "Images/Twitter Search Design.png",
     "Core Concepts/Pagination.md",
     "Images/Ad Click Event Aggregator Design.png",
-    "System Design Questions/Youtube.md",
     "System Design Questions/URL Shortening Service.md",
     "System Design Questions/Uber.md",
     "Images/Uber Design.png",
-    "System Design Questions/Top Heavy Hitters.md",
     "System Design Questions/Proximity Service.md",
-    "System Design Questions/Nearby Friends.md",
     "Images/Ticketmaster Design.png",
     "Images/Metrics Monitoring Design.png",
-    "Images/Alerting Design.png",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",
@@ -225,7 +226,6 @@
     "Google Docs",
     "Untitled 1",
     "Core Concepts",
-    "Makefile",
-    "Templates"
+    "Makefile"
   ]
 }
