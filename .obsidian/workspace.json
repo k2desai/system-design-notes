@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "System Design Questions/Web Crawler.md"
               }
             }
           },
@@ -182,12 +182,21 @@
   },
   "active": "1f253d20beb8b34a",
   "lastOpenFiles": [
+    "README.md",
+    "System Design Questions/Web Crawler.md",
+    "Images/Web Crawler Design.png",
+    "Core Concepts/Bloom filters.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/Hotel Reservation.md",
     "System Design Questions/Twitter.md",
     "System Design Questions/News feed System.md",
+    "System Design Questions/Notification System.md",
+    "Core Concepts/Mongo DB.md",
+    "Core Concepts/Load Balancer.md",
+    "Images/Twitter Design.png",
     "Reading List.md",
     "Images/Twitter Design.png",
     "Images/Twitter Design.png",
-    "README.md",
     "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Twitter Search.md",
     "System Design Questions/Instagram.md",
@@ -199,25 +208,15 @@
     "Core Concepts/Pagination.md",
     "Images/Ad Click Event Aggregator Design.png",
     "System Design Questions/Youtube.md",
-    "System Design Questions/Web Crawler.md",
     "System Design Questions/URL Shortening Service.md",
     "System Design Questions/Uber.md",
     "Images/Uber Design.png",
     "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Rate Limiter.md",
     "System Design Questions/Proximity Service.md",
-    "System Design Questions/Notification System.md",
     "System Design Questions/Nearby Friends.md",
-    "System Design Questions/Metrics Monitoring.md",
-    "System Design Questions/Hotel Reservation.md",
-    "System Design Questions/Google Maps.md",
-    "System Design Questions/Facebook Messenger.md",
-    "System Design Questions/DropBox.md",
     "Images/Ticketmaster Design.png",
     "Images/Metrics Monitoring Design.png",
     "Images/Alerting Design.png",
-    "Images/Hotel Reservation Design.png",
-    "Images/Google Maps Design.png",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",

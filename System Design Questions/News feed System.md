@@ -46,6 +46,7 @@
 
 ### Interesting Algorithms/Approaches
 1. To create "infinite scroll" experience, we send a timestamp with the feed request, so that we will only return feeds older than that timestamp
+2. Fan-out on read builds the timeline when user logs in and requests the timeline - it can make reads slow. Fan-out on write builds the timeline asynchronously when the content is written. This is more write intensive needs additional storage but makes reads fast. 
 
 ### Scaling Challenges
 1. We need to shard posts - could be on post id

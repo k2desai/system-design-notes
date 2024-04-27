@@ -9,7 +9,7 @@
 - [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
 - [ ] [[URL Shortening Service]] - Done
-- [ ] [[Web Crawler]]
+- [ ] [[Web Crawler]] - Done
 - [ ] [[Facebook Messenger]] - Done
 - [ ] [[Type ahead Suggestion]]
 - [ ] [[DropBox / Google Drive]] - Done
