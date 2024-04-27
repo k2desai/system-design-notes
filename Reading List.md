@@ -17,6 +17,7 @@
     1. **CAP theorem:** Does this system prioritize availability or consistency? Note, that in some cases, the answer is different depending on the part of the system         
     2. **Read vs write ratio:** is this a read heavy system or write heavy? Are either notably heavy for any reason?        
     3. **Query access pattern:** Is the access pattern of the system regular or are their patterns or bursts that require particular attention. For example, the holidays for shopping sites or popular events for ticket booking.
+4. Do not directly jump into scaling. State you would 1) **Benchmark/Load Test**, 2) **Profile** for bottlenecks 3) address bottlenecks while evaluating alternatives and trade-offs, and 4) repeat. See [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md) as a sample on how to iteratively scale the initial design.
 
 ### Talking Points:
 

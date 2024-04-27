@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Ad Click Event Aggregation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300.5
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Ad Click Event Aggregation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Ad Click Event Aggregation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Ad Click Event Aggregation.md"
+                "file": "README.md"
               }
             }
           },
@@ -183,41 +183,41 @@
   "active": "1f253d20beb8b34a",
   "lastOpenFiles": [
     "System Design Questions/Twitter.md",
-    "Templates/System Design Template.md",
+    "System Design Questions/News feed System.md",
+    "Reading List.md",
+    "Images/Twitter Design.png",
+    "Images/Twitter Design.png",
     "README.md",
-    "System Design Questions/Ad Click Event Aggregation.md",
+    "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Twitter Search.md",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/Ticketmaster.md",
+    "Core Concepts/Stats.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
+    "Templates/System Design Template.md",
     "Images/Twitter Search Design.png",
     "Core Concepts/Pagination.md",
     "Images/Ad Click Event Aggregator Design.png",
     "System Design Questions/Youtube.md",
     "System Design Questions/Web Crawler.md",
     "System Design Questions/URL Shortening Service.md",
-    "System Design Questions/Unique ID Generator.md",
     "System Design Questions/Uber.md",
     "Images/Uber Design.png",
     "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Ticketmaster.md",
     "System Design Questions/Rate Limiter.md",
     "System Design Questions/Proximity Service.md",
     "System Design Questions/Notification System.md",
-    "System Design Questions/News feed System.md",
     "System Design Questions/Nearby Friends.md",
     "System Design Questions/Metrics Monitoring.md",
-    "System Design Questions/Instagram.md",
     "System Design Questions/Hotel Reservation.md",
     "System Design Questions/Google Maps.md",
     "System Design Questions/Facebook Messenger.md",
     "System Design Questions/DropBox.md",
     "Images/Ticketmaster Design.png",
-    "Reading List.md",
     "Images/Metrics Monitoring Design.png",
     "Images/Alerting Design.png",
     "Images/Hotel Reservation Design.png",
-    "Core Concepts/Database Transactions.md",
     "Images/Google Maps Design.png",
-    "Images/Google Maps Design v2.png",
-    "Images/Nearby Friends Design.png",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",

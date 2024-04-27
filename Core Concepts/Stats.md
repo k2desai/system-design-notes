@@ -1,0 +1,1 @@
+1. 1 machine can hold 100k websocket connections 

@@ -5,7 +5,7 @@
 - [ ] [[Google Maps]] - Done
 - [ ] [[Proximity Service]] - Done
 - [ ] [[Uber]] - Done
-- [ ] [[Twitter]]
+- [ ] [[Twitter]] - Done
 - [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
 - [ ] [[URL Shortening Service]] - Done
@@ -21,7 +21,7 @@
 - [ ] [[Nearby Friends]] - Done
 - [ ] [[Distributed Message Queue]]
 - [ ] [[Metrics Monitoring]] - Done 
-- [ ] [[Ad Click Event Aggregation]]
+- [ ] [[Ad Click Event Aggregation]] - Done
 - [ ] [[Hotel Reservation]] - Done
 - [ ] [[Distributed Email Service]]
 - [ ] [[S3-like Object Storage]]
