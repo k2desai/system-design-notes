@@ -16,8 +16,8 @@
 - [ ] [[Rate Limiter]] - Done
 - [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
-- [ ] [[Unique ID Generator]]
-- [ ] [[Notification System]]
+- [ ] [[Unique ID Generator]] - Done 
+- [ ] [[Notification System]] - Done 
 - [ ] [[Nearby Friends]] - Done
 - [ ] [[Distributed Message Queue]]
 - [ ] [[Metrics Monitoring]] - Done 
