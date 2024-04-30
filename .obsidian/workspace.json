@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2bfbdf95bf6c82",
+        "id": "40b9238cc38ae646",
         "type": "tabs",
         "children": [
           {
-            "id": "6db6d893c622cba7",
+            "id": "a381cabd7d03e9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Real-time Gaming Leader board.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed8189aad1816758",
+            "id": "1f253d20beb8b34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Questions/LeetCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cbc73678b5cd3fd",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Real-time Gaming Leader board.md",
+                "file": "System Design Questions/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Real-time Gaming Leader board.md",
+                "file": "System Design Questions/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Real-time Gaming Leader board.md"
+                "file": "System Design Questions/LeetCode.md"
               }
             }
           },
@@ -143,20 +156,12 @@
             "id": "66459c1395dba772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e75f155e81856bb4",
-            "type": "leaf",
-            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,51 +180,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6db6d893c622cba7",
+  "active": "c1447b5bdba801b5",
   "lastOpenFiles": [
-    "System Design Questions/Google Maps.md",
-    "System Design Questions/Real-time Gaming Leader board.md",
-    "Core Concepts/REDIS.md",
-    "Images/Leaderboard Design.png",
-    "README.md",
+    "Images/Leetcode Design.png",
     "Templates/System Design Template.md",
-    "System Design Questions/Ad Click Event Aggregation.md",
-    "System Design Questions/Metrics Monitoring.md",
-    "System Design Questions/Web Crawler.md",
-    "System Design Questions/Twitter.md",
-    "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Quora.md",
-    "Images/Web Crawler Design.png",
-    "Images/Twitter Design.png",
-    "Images/Quora Design.png",
-    "Images/Notification Design.png",
-    "Images/Ad Click Event Aggregator Design.png",
-    "Core Concepts/Stats.md",
-    "Core Concepts/Bloom filters.md",
-    "System Design Questions/Twitter Search.md",
-    "Images/Twitter Search Design.png",
-    "Core Concepts/Pagination.md",
-    "System Design Questions/Proximity Service.md",
-    "System Design Questions/DropBox.md",
-    "Images/Alerting Design.png",
-    "Images/Metrics Monitoring Design.png",
-    "Core Concepts/Location algorithms.md",
-    "System Design Questions/Ticketmaster.md",
-    "System Design Questions/Hotel Reservation.md",
-    "Images/Ticketmaster Design.png",
-    "Core Concepts/Database Transactions.md",
-    "System Design Questions/News feed System.md",
-    "System Design Questions/Nearby Friends.md",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/Facebook Messenger.md",
+    "System Design Questions/LeetCode.md",
+    "README.md",
+    "Core Concepts/Consistent Hashing.md",
+    "Reading List.md",
     "System Design Questions/Notification System.md",
-    "Templates",
-    "System Design Questions",
-    "Images/Instagram Design v2",
-    "Images",
-    "Core Concepts",
+    "System Design Questions/News feed System.md",
+    "System Design Questions/Real-time Gaming Leader board.md",
+    "Images/Leaderboard Design.png",
+    "System Design Questions/Top Heavy Hitters.md",
+    "System Design Questions/Unique ID Generator.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Quora.md",
+    "System Design Questions/Facebook Messenger.md",
+    "Images/Web Crawler Design.png",
+    "Images/Notification Design.png",
+    "Images/Quora Design.png",
+    "System Design Questions/Youtube.md",
+    "Quora",
+    "System Design Questions/Web Crawler.md",
+    "Core Concepts/Bloom filters.md",
+    "System Design Questions/Hotel Reservation.md",
+    "System Design Questions/Twitter.md",
+    "Core Concepts/Mongo DB.md",
+    "Core Concepts/Load Balancer.md",
+    "Images/Twitter Design.png",
+    "Images/Twitter Design.png",
+    "Images/Twitter Design.png",
+    "System Design Questions/Twitter Search.md",
+    "System Design Questions/Instagram.md",
+    "Core Concepts/Stats.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
+    "Images/Twitter Search Design.png",
+    "Images/Ad Click Event Aggregator Design.png",
+    "Images/Uber Design.png",
     "topics",
-    "Makefile",
-    "templates"
+    "Images/Instagram Design v2",
+    "Whatsapp",
+    "System Design Questions",
+    "Images",
+    "Google Docs",
+    "Untitled 1",
+    "Core Concepts",
+    "Makefile"
   ]
 }

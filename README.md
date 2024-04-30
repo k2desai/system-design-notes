@@ -1,6 +1,5 @@
 ### Problem List
 - [ ] [[Rate Limiter]] - Done
-- [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
 - [ ] [[Unique ID Generator]] - Done 
 - [ ] [[Notification System]] - Done 
@@ -29,17 +28,15 @@
 - [ ] [[Hotel Reservation]] - Done
 - [ ] [[Ticketmaster]] - Done
 
-
 - [ ] [[URL Shortening Service]] - Done
 - [ ] [[Pastebin]]
 
 - [ ] [[Web Crawler]] - Done
-
-- [ ] [[Type ahead Suggestion]]
-- [ ] [[Distributed Email Service]]
 - [ ] [[Real-time Gaming Leader board]] - Done
 - [ ] [[LeetCode]]
 - [ ] [[Google Docs]]
+- [ ] [[Type ahead Suggestion]]
+- [ ] [[Distributed Email Service]]
 - [ ] [[Flash Sales]]
 
 - [ ] [[Payment System]] - 🔽 
