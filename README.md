@@ -1,38 +1,47 @@
 ### Problem List
-
-- [ ] [[YouTube/Netflix]] - Done
-- [ ] [[Quora]] - Done 
-- [ ] [[Google Maps]] - Done
-- [ ] [[Proximity Service]] - Done
-- [ ] [[Uber]] - Done
-- [ ] [[Twitter]] - Done
-- [ ] [[News feed System]] - Done
-- [ ] [[Instagram]] - Done
-- [ ] [[URL Shortening Service]] - Done
-- [ ] [[Web Crawler]] - Done
-- [ ] [[Facebook Messenger]] - Done
-- [ ] [[Type ahead Suggestion]]
-- [ ] [[DropBox / Google Drive]] - Done
 - [ ] [[Rate Limiter]] - Done
 - [ ] [[Consistent Hashing]]
 - [ ] [[Key-Value Store]]
 - [ ] [[Unique ID Generator]] - Done 
 - [ ] [[Notification System]] - Done 
-- [ ] [[Nearby Friends]] - Done
 - [ ] [[Distributed Message Queue]]
+- [ ] [[S3-like Object Storage]]
+- [ ] [[Distributed Cache]]
+
+- [ ] [[YouTube/Netflix]] - Done
+- [ ] [[Quora]] - Done 
+- [ ] [[Twitter]] - Done
+- [ ] [[News feed System]] - Done
+- [ ] [[Instagram]] - Done
+- [ ] [[Top Heavy Hitters]] - Done
+- [ ] [[Twitter Search]] - Done
+- [ ] [[DropBox / Google Drive]] - Done
+
+- [ ] [[Google Maps]] - Done
+- [ ] [[Proximity Service]] - Done
+- [ ] [[Uber]] - Done
+- [ ] [[Nearby Friends]] - Done
+- [ ] [[Facebook Messenger]] - Done
+
 - [ ] [[Metrics Monitoring]] - Done 
 - [ ] [[Ad Click Event Aggregation]] - Done
+
 - [ ] [[Hotel Reservation]] - Done
-- [ ] [[Distributed Email Service]]
-- [ ] [[S3-like Object Storage]]
-- [ ] [[Real-time Gaming Leader board]]
-- [ ] [[Payment System]]
-- [ ] [[Digital Wallet]]
-- [ ] [[Stock Exchange]]
-- [ ] [[Top Heavy Hitters]] - Done
-- [ ] [[Pastebin]]
-- [ ] [[Twitter Search]] - Done
 - [ ] [[Ticketmaster]] - Done
+
+
+- [ ] [[URL Shortening Service]] - Done
+- [ ] [[Pastebin]]
+
+- [ ] [[Web Crawler]] - Done
+
+- [ ] [[Type ahead Suggestion]]
+- [ ] [[Distributed Email Service]]
+- [ ] [[Real-time Gaming Leader board]] - Done
+- [ ] [[LeetCode]]
 - [ ] [[Google Docs]]
-- [ ] [[Amazon]]
-- [ ] [[Distributed Cache]]
+- [ ] [[Flash Sales]]
+
+- [ ] [[Payment System]] - 🔽 
+- [ ] [[Digital Wallet]] - 🔽 
+- [ ] [[Stock Exchange]] - 🔽 

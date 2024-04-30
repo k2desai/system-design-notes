@@ -59,3 +59,5 @@
 
 
 ### References
+https://www.hellointerview.com/learn/system-design/answer-keys/ad-click-aggregator
+System Design Interview An Insiders Guide Volume 2
