@@ -1,6 +1,6 @@
 ### Problem List
 - [ ] [[Rate Limiter]] - Done
-- [ ] [[Key-Value Store]]
+- [ ] [[Key-Value Store]] - Done 
 - [ ] [[Unique ID Generator]] - Done 
 - [ ] [[Notification System]] - Done 
 - [ ] [[Distributed Message Queue]]
