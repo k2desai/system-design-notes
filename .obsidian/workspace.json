@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/LeetCode.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c4d5c2d0d297a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Questions/Google Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/LeetCode.md",
+                "file": "System Design Questions/Google Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/LeetCode.md",
+                "file": "System Design Questions/Google Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/LeetCode.md"
+                "file": "System Design Questions/Google Docs.md"
               }
             }
           },
@@ -182,10 +194,12 @@
   },
   "active": "c1447b5bdba801b5",
   "lastOpenFiles": [
-    "Images/Leetcode Design.png",
+    "Images/Google Docs Design.png",
     "Templates/System Design Template.md",
-    "System Design Questions/LeetCode.md",
+    "System Design Questions/Google Docs.md",
     "README.md",
+    "System Design Questions/LeetCode.md",
+    "Images/Leetcode Design.png",
     "Core Concepts/Consistent Hashing.md",
     "Reading List.md",
     "System Design Questions/Notification System.md",
@@ -215,10 +229,8 @@
     "System Design Questions/Twitter Search.md",
     "System Design Questions/Instagram.md",
     "Core Concepts/Stats.md",
-    "System Design Questions/Ad Click Event Aggregation.md",
     "Images/Twitter Search Design.png",
     "Images/Ad Click Event Aggregator Design.png",
-    "Images/Uber Design.png",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",
