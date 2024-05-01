@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Caching.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "saga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Concepts/Caching.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Concepts/Caching.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Concepts/Caching.md"
+                "file": "README.md"
               }
             }
           },
@@ -177,14 +177,23 @@
   },
   "active": "6db6d893c622cba7",
   "lastOpenFiles": [
-    "README.md",
-    "Images/Key-value Write Design.png",
+    "System Design Questions/Distributed Email Service.md",
+    "Images/Email Receiving Design.png",
+    "Images/Email Design.png",
+    "Images/Email Sending Design.png",
+    "System Design Questions/Google Maps.md",
     "System Design Questions/Key-Value Store.md",
+    "System Design Questions/URL Shortening Service.md",
+    "Templates/System Design Template.md",
+    "README.md",
+    "System Design Questions/Hotel Reservation.md",
+    "Core Concepts/Database Transactions.md",
+    "Core Concepts/Caching.md",
+    "Images/Key-value Write Design.png",
     "Images/Key-value Read Design.png",
     "Core Concepts/Consistent Hashing.md",
     "Core Concepts/Consistency.md",
     "System Design Questions/Unique ID Generator.md",
-    "Templates/System Design Template.md",
     "System Design Questions/Real-time Gaming Leader board.md",
     "System Design Questions/Type ahead Suggestion.md",
     "System Design Questions/LeetCode.md",
@@ -193,7 +202,6 @@
     "Images/Typeahead Design 1.png",
     "Images/Leetcode Design.png",
     "Images/Google Docs Design.png",
-    "System Design Questions/Google Maps.md",
     "Core Concepts/REDIS.md",
     "Images/Leaderboard Design.png",
     "System Design Questions/Ad Click Event Aggregation.md",
@@ -202,16 +210,8 @@
     "System Design Questions/Twitter.md",
     "System Design Questions/Top Heavy Hitters.md",
     "System Design Questions/Quora.md",
-    "Images/Web Crawler Design.png",
-    "Images/Twitter Design.png",
-    "Images/Quora Design.png",
     "Core Concepts/Stats.md",
     "Core Concepts/Bloom filters.md",
-    "System Design Questions/Twitter Search.md",
-    "Core Concepts/Pagination.md",
-    "System Design Questions/Proximity Service.md",
-    "System Design Questions/DropBox.md",
-    "Core Concepts/Location algorithms.md",
     "Templates",
     "System Design Questions",
     "Images/Instagram Design v2",

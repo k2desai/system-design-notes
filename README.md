@@ -36,7 +36,7 @@
 - [ ] [[Real-time Gaming Leader board]] - Done
 - [ ] [[LeetCode]] - Done
 - [ ] [[Type ahead Suggestion]] - Done
-- [ ] [[Distributed Email Service]]
+- [ ] [[Distributed Email Service]] - Done
 - [ ] [[Flash Sales]]
 
 - [ ] [[Payment System]] - 🔽 
