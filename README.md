@@ -21,7 +21,7 @@
 - [ ] [[Uber]] - Done
 - [ ] [[Nearby Friends]] - Done
 - [ ] [[Facebook Messenger]] - Done
-- [ ] [[Google Docs]]
+- [ ] [[Google Docs]] - Done 
 
 - [ ] [[Metrics Monitoring]] - Done 
 - [ ] [[Ad Click Event Aggregation]] - Done
@@ -35,7 +35,7 @@
 - [ ] [[Web Crawler]] - Done
 - [ ] [[Real-time Gaming Leader board]] - Done
 - [ ] [[LeetCode]] - Done
-- [ ] [[Type ahead Suggestion]]
+- [ ] [[Type ahead Suggestion]] - Done
 - [ ] [[Distributed Email Service]]
 - [ ] [[Flash Sales]]
 

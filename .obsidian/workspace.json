@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Google Docs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 294.5
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Google Docs.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Google Docs.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Google Docs.md"
+                "file": "README.md"
               }
             }
           },
@@ -192,12 +192,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1447b5bdba801b5",
+  "active": "f1c4d5c2d0d297a1",
   "lastOpenFiles": [
-    "Images/Google Docs Design.png",
-    "Templates/System Design Template.md",
-    "System Design Questions/Google Docs.md",
+    "System Design Questions/Type ahead Suggestion.md",
+    "Images/Typeahead Design 2.png",
+    "Images/Typeahead Design 1.png",
     "README.md",
+    "System Design Questions/Facebook Messenger.md",
+    "System Design Questions/Google Docs.md",
+    "System Design Questions/Google Maps.md",
+    "System Design Questions/Hotel Reservation.md",
+    "Templates/System Design Template.md",
+    "Images/Google Docs Design.png",
     "System Design Questions/LeetCode.md",
     "Images/Leetcode Design.png",
     "Core Concepts/Consistent Hashing.md",
@@ -211,7 +217,6 @@
     "System Design Questions/Rate Limiter.md",
     "System Design Questions/Ticketmaster.md",
     "System Design Questions/Quora.md",
-    "System Design Questions/Facebook Messenger.md",
     "Images/Web Crawler Design.png",
     "Images/Notification Design.png",
     "Images/Quora Design.png",
@@ -219,18 +224,12 @@
     "Quora",
     "System Design Questions/Web Crawler.md",
     "Core Concepts/Bloom filters.md",
-    "System Design Questions/Hotel Reservation.md",
     "System Design Questions/Twitter.md",
     "Core Concepts/Mongo DB.md",
     "Core Concepts/Load Balancer.md",
     "Images/Twitter Design.png",
     "Images/Twitter Design.png",
-    "Images/Twitter Design.png",
     "System Design Questions/Twitter Search.md",
-    "System Design Questions/Instagram.md",
-    "Core Concepts/Stats.md",
-    "Images/Twitter Search Design.png",
-    "Images/Ad Click Event Aggregator Design.png",
     "topics",
     "Images/Instagram Design v2",
     "Whatsapp",
