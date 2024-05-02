@@ -30,7 +30,7 @@
 - [ ] [[Ticketmaster]] - Done
 
 - [ ] [[URL Shortening Service]] - Done
-- [ ] [[Pastebin]]
+- [ ] [[Pastebin]] - Done
 
 - [ ] [[Web Crawler]] - Done
 - [ ] [[Real-time Gaming Leader board]] - Done
