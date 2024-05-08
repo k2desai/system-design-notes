@@ -4,69 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "40b9238cc38ae646",
+        "id": "aa2bfbdf95bf6c82",
         "type": "tabs",
         "children": [
           {
-            "id": "a381cabd7d03e9df",
+            "id": "6db6d893c622cba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Twitter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f253d20beb8b34a",
+            "id": "7b8c5219c3dd887f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c4d5c2d0d297a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8165ffac9304bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cbc73678b5cd3fd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Uber Design.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 300
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -132,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "System Design Questions/Web Crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "System Design Questions/Web Crawler.md"
               }
             }
           },
@@ -204,52 +170,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8165ffac9304bac",
+  "active": "7b8c5219c3dd887f",
   "lastOpenFiles": [
-    "System Design Questions/Pastebin.md",
-    "System Design Questions/Google Maps.md",
-    "System Design Questions/Hotel Reservation.md",
-    "System Design Questions/Google Docs.md",
-    "Images/Pastebin Design.png",
-    "README.md",
-    "Templates/System Design Template.md",
-    "System Design Questions/Key-Value Store.md",
-    "System Design Questions/Distributed Email Service.md",
-    "Images/Key-value Write Design.png",
-    "Images/Key-value Read Design.png",
-    "Images/Email Sending Design.png",
-    "Images/Email Receiving Design.png",
-    "Images/Email Design.png",
-    "Core Concepts/Consistency.md",
     "System Design Questions/Type ahead Suggestion.md",
+    "System Design Questions/Twitter Search.md",
+    "System Design Questions/Twitter.md",
+    "System Design Questions/Top Heavy Hitters.md",
+    "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Real-time Gaming Leader board.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/URL Shortening Service.md",
+    "System Design Questions/Unique ID Generator.md",
+    "System Design Questions/Uber.md",
+    "System Design Questions/Quora.md",
+    "System Design Questions/Proximity Service.md",
+    "System Design Questions/Pastebin.md",
+    "System Design Questions/Notification System.md",
+    "System Design Questions/Web Crawler.md",
+    "System Design Questions/Youtube.md",
+    "README.md",
+    "Images/Youtube Design.png",
+    "System Design Questions/Instagram.md",
+    "System Design Questions/News feed System.md",
+    "System Design Questions/Nearby Friends.md",
+    "System Design Questions/Metrics Monitoring.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
+    "System Design Questions/LeetCode.md",
+    "System Design Questions/Key-Value Store.md",
+    "Core Concepts/Consistency.md",
+    "System Design Questions/Hotel Reservation.md",
     "Images/Typeahead Design 2.png",
     "Images/Typeahead Design 1.png",
-    "System Design Questions/Facebook Messenger.md",
-    "Images/Google Docs Design.png",
-    "System Design Questions/LeetCode.md",
+    "Images/Pastebin Design.png",
     "Images/Leetcode Design.png",
-    "Core Concepts/Consistent Hashing.md",
-    "Reading List.md",
-    "System Design Questions/Notification System.md",
-    "System Design Questions/News feed System.md",
-    "System Design Questions/Real-time Gaming Leader board.md",
-    "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Unique ID Generator.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Ticketmaster.md",
-    "System Design Questions/Quora.md",
-    "System Design Questions/Youtube.md",
-    "Quora",
-    "System Design Questions/Web Crawler.md",
-    "Core Concepts/Bloom filters.md",
-    "topics",
+    "Images/Leaderboard Design.png",
+    "Images/Key-value Write Design.png",
+    "Images/Key-value Read Design.png",
+    "Images/Google Docs Design.png",
+    "Templates",
+    "Core Concepts",
+    "Images/Instagram Design v2.png.crswap",
+    "Images/Instagram Design v2.crswap",
     "Images/Instagram Design v2",
     "Whatsapp",
     "System Design Questions",
     "Images",
     "Google Docs",
-    "Untitled 1",
-    "Core Concepts",
-    "Makefile"
+    "Untitled 1"
   ]
 }

@@ -18,13 +18,17 @@
 4. Accurate
 
 ### Capacity Estimation
-
+1. 70 billion views/day -> 700K QPS
+2. 1 million videos/day -> 3.6 billion videos in 10 years 
+3. Storage = 4 billion videos * 16 bytes -> 64 GB
 
 ### APIs
-
+1. GET /views/top?window={WINDOW}&k={K}
 
 ### Object Model
-
+1. Video
+2. View
+3. Time Window 
 
 ### HLD
 

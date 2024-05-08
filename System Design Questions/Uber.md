@@ -76,6 +76,11 @@ Body:
 [[Location algorithms#Geohashing]]
 To find shortest path - Dijakstra's algorithm and [[Location algorithms#Contraction hierarchy]]
 
+### Drilldown:
+1. Driver location update - adaptive 
+2. Store data keyed by geohash (special geohash cells of different sizes)
+3. If many riders querying a ride - use a queue - to manage booking service going down, and locking for not sending multiple requests to same driver 
+
 ### References
 1. https://www.hellointerview.com/learn/system-design/answer-keys/uber
 2. https://www.educative.io/courses/grokking-the-system-design-interview/YQVkjp548NM

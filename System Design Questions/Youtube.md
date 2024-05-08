@@ -40,16 +40,14 @@
 
 
 ### HLD
-
 ![[Youtube Design.png]]
 
-
-| Component      | Details                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Upload storage | Temporarily holds videos before preprocessing                                                                         |
-| Bigtable       | To store thumbnails because of high throughput and scalability for key-value data. Optimal for data items below 10 MB |
-| Encoders       | For video postprocessing, uploading to CDN and colocation servers.                                                    |
-| CDNs           | CDNs can hold the more popular videos for their respective regions                                                    |
+| Component        | Details                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Original storage | Temporarily holds videos before preprocessing                                                                         |
+| Bigtable         | To store thumbnails because of high throughput and scalability for key-value data. Optimal for data items below 10 MB |
+| Encoders         | For video postprocessing, uploading to CDN and colocation servers.                                                    |
+| CDNs             | CDNs can hold the more popular videos for their respective regions                                                    |
 
 
 ### Database Choices
@@ -65,6 +63,12 @@
 
 ### Deep Dive Topics
 
+
+### Drilldown
+1. Video search uses elastic search with thin wrapper that implements ranking logic for search results based on relevance, recency, etc 
+2. Video viewing uses HLS and adaptive streaming based on quality of network 
+3. Analytics engine can track viral videos and push them to CDN
+4. Presigned URLs for upload 
 
 ### References
 
