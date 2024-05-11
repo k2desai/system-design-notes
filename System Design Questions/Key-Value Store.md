@@ -28,7 +28,7 @@
 ### HLD
 ![[Images/Key-value Write Design.png]]
 ![[Key-value Read Design.png]]
-
+![[Distributed Cache Design.png]]
 ### Database Choices
 
 
@@ -50,3 +50,4 @@
 ### References
 System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions
 https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-key-value-store
+https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-cache

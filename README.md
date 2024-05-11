@@ -5,14 +5,12 @@
 - [ ] [[Notification System]] - Done 
 - [ ] [[Distributed Message Queue]]
 - [ ] [[S3-like Object Storage]]
-- [ ] [[Distributed Cache]]
 
 - [ ] [[YouTube/Netflix]] - Done
 - [ ] [[Quora]] - Done 
 - [ ] [[Twitter]] - Done
 - [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
-- [ ] [[Top Heavy Hitters]] - Done
 - [ ] [[Twitter Search]] - Done
 - [ ] [[DropBox / Google Drive]] - Done
 
@@ -23,8 +21,10 @@
 - [ ] [[Facebook Messenger]] - Done
 - [ ] [[Google Docs]] - Done 
 
+- [ ] [[Top Heavy Hitters]] - Done
 - [ ] [[Metrics Monitoring]] - Done 
 - [ ] [[Ad Click Event Aggregation]] - Done
+- [ ] [[Real-time Gaming Leader board]] - Done
 
 - [ ] [[Hotel Reservation]] - Done
 - [ ] [[Ticketmaster]] - Done
@@ -33,7 +33,6 @@
 - [ ] [[Pastebin]] - Done
 
 - [ ] [[Web Crawler]] - Done
-- [ ] [[Real-time Gaming Leader board]] - Done
 - [ ] [[LeetCode]] - Done
 - [ ] [[Type ahead Suggestion]] - Done
 - [ ] [[Distributed Email Service]] - Done

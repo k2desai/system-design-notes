@@ -67,6 +67,12 @@ A web crawler is used for many purposes:
 ### Deep Dive Topics
 
 
+### Drilldown
+1. Multiple queues in frontier for handling priority and then politeness. Freshness. 
+2. Client side browser caching and AJAX requests
+3. Spider traps
+
+
 ### References
 System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions
 https://www.educative.io/courses/grokking-the-system-design-interview/NE5LpPrWrKv
