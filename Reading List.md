@@ -36,6 +36,13 @@ Other talking points:
 • Lose couple components with message queues 
 • Monitor key metrics. For instance, QPS during peak hours and latency 
 
+Non-functional requirements
+- Scalability
+- Consistency
+- Availability 
+- Reliability
+- Performance 
+- Read vs write heavy
 
 ### Open Questions:
 1. What is QPS / RPS of a typical server? 64000? - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/requirements-of-tinyurls-design
