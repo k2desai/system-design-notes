@@ -18,8 +18,7 @@ Gossip protocol - each node communicates its status to a subset of nodes. This i
 #### Handling Temporary Failures:
 Sloppy quorum - ignore offline servers in R and W. If a server is unavailable, another server will process requests temporarily. When the down server is up, changes will be pushed back to achieve data consistency. This is called "hinted handoff"
 #### Handling Permanent Failures:
-We implement an anti-entropy protocol to keep replicas in sync. Anti-entropy involves comparing each piece of data on replicas and updating each replica to the newest version. A Merkle tree is used for inconsistency detection and minimizing the amount of data transferred. Every non-leaf
-node is labeled with the hash of the values of its child nodes. You can traverse the tree to find which buckets are not synchronized and synchronize those buckets only. Using Merkle trees, the amount of data needed to be synchronized is proportional to the differences between the two replicas, and not the amount of data they contain. 
+We implement an anti-entropy protocol to keep replicas in sync. Anti-entropy involves comparing each piece of data on replicas and updating each replica to the newest version. A Merkle tree is used for inconsistency detection and minimizing the amount of data transferred. Every non-leaf node is labeled with the hash of the values of its child nodes. You can traverse the tree to find which buckets are not synchronized and synchronize those buckets only. Using Merkle trees, the amount of data needed to be synchronized is proportional to the differences between the two replicas, and not the amount of data they contain. 
 
 ### References
 System Design Interview – An insider's guide, Second Edition: Step by Step Guide, Tips and 15 System Design Interview Questions with Detailed Solutions
