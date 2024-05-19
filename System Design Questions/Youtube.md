@@ -1,11 +1,11 @@
 ### Problem Description
-> Design a system to store and serve videos. Use cases to cover:
-> - Upload videos
-> - Search for videos
-> - View videos
-> - Analytics on videos
-> - Comment/Like/Dislike Video
-> 
+Design a system to store and serve videos. Use cases to cover:
+ - Upload videos
+ - Search for videos
+ - View videos
+ - Analytics on videos
+ - Comment/Like/Dislike Video
+ 
 ### Questions to ask
 1. What features are important
 2. What clients do we need to support?
@@ -49,12 +49,11 @@
 | Encoders         | For video postprocessing, uploading to CDN and colocation servers.                                                    |
 | CDNs             | CDNs can hold the more popular videos for their respective regions                                                    |
 
-
 ### Database Choices
 1. Video and user metadata - Relational db - with primary-secondary replication. 
 
 ### Interesting Algorithms/Approaches
-1. Chunked encoding: Since multiple devices could be used to stream the same video, we may have to encode the same video using different encoding schemes resulting in one raw video file being converted into multiple files each encoded differently. We divide the video into segments and process each segment to generate chunks. The choice of encoding scheme for a segment will be based on the detail within the segment to get **optimized quality with lesser storage requirements**.
+1. Chunked encoding: Since multiple devices could be used to stream the same video, we may have to encode the same video using different encoding schemes resulting in one raw video file being converted into multiple files each encoded differently. We divide the video into segments and process each segment to generate chunks. The choice of encoding scheme for a segment will be based on the detail within the segment to get optimized quality with lesser storage requirement.
 2. Adaptive streaming: While the content is being served, the bandwidth of the user is also being monitored at all times. Since the video is divided into chunks of different qualities, each of the same time frame, the chunks are provided to clients based on changing network conditions. When the bandwidth is high, a higher quality chunk is sent to the client and vice versa
 3. Video deduplication needed? Chunking would help with that if parts of video are duplicates
 

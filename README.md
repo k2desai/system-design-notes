@@ -8,9 +8,9 @@
 
 - [ ] [[YouTube/Netflix]] - Done
 - [ ] [[Quora]] - Done 
-- [ ] [[Twitter]] - Done
 - [ ] [[News feed System]] - Done
 - [ ] [[Instagram]] - Done
+- [ ] [[Twitter]] - Done
 - [ ] [[Twitter Search]] - Done
 - [ ] [[DropBox / Google Drive]] - Done
 
@@ -25,6 +25,7 @@
 - [ ] [[Metrics Monitoring]] - Done 
 - [ ] [[Ad Click Event Aggregation]] - Done
 - [ ] [[Real-time Gaming Leader board]] - Done
+- [ ] [[Type ahead Suggestion]] - Done
 
 - [ ] [[Hotel Reservation]] - Done
 - [ ] [[Ticketmaster]] - Done
@@ -34,7 +35,6 @@
 
 - [ ] [[Web Crawler]] - Done
 - [ ] [[LeetCode]] - Done
-- [ ] [[Type ahead Suggestion]] - Done
 - [ ] [[Distributed Email Service]] - Done
 - [ ] [[Flash Sales]]
 

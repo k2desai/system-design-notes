@@ -34,7 +34,8 @@ Other talking points:
 • Cache data as much as you can 
 • Support multiple data centers 
 • Lose couple components with message queues 
-• Monitor key metrics. For instance, QPS during peak hours and latency 
+• Monitor key metrics. For instance, QPS during peak hours and latency
+• Load balancer - round robin / least connections
 
 Non-functional requirements
 - Scalability
@@ -42,7 +43,19 @@ Non-functional requirements
 - Availability 
 - Reliability
 - Performance 
+- Latency
 - Read vs write heavy
+
+API Gateway:
+1. Request validation
+2. Authentication / authorization
+3. TLS SSL termination
+4. Server side encryption
+5. Caching
+6. Rate limiting
+7. Request dispatching
+8. Request deduplication
+9. Usage data collection
 
 ### Open Questions:
 1. What is QPS / RPS of a typical server? 64000? - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/requirements-of-tinyurls-design

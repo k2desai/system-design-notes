@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Notification System.md",
+                "file": "System Design Questions/Distributed Message Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Notification System.md",
+                "file": "System Design Questions/Distributed Message Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Notification System.md",
+                "file": "System Design Questions/Distributed Message Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Notification System.md"
+                "file": "System Design Questions/Distributed Message Queue.md"
               }
             }
           },
@@ -182,32 +182,32 @@
   },
   "active": "3373e4aa83791fd9",
   "lastOpenFiles": [
-    "System Design Questions/News feed System.md",
-    "System Design Questions/Nearby Friends.md",
-    "Core Concepts/REDIS.md",
-    "System Design Questions/Metrics Monitoring.md",
-    "System Design Questions/LeetCode.md",
-    "System Design Questions/Key-Value Store.md",
-    "Core Concepts/Consistency.md",
-    "System Design Questions/Instagram.md",
-    "System Design Questions/Hotel Reservation.md",
-    "Core Concepts/Database Transactions.md",
-    "System Design Questions/Type ahead Suggestion.md",
+    "Reading List.md",
+    "System Design Questions/Distributed Message Queue.md",
+    "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Real-time Gaming Leader board.md",
+    "Images/Distributed Message Queue Design.png",
+    "Templates/System Design Template.md",
     "README.md",
+    "System Design Questions/Youtube.md",
+    "System Design Questions/Web Crawler.md",
+    "System Design Questions/URL Shortening Service.md",
+    "System Design Questions/Unique ID Generator.md",
+    "System Design Questions/Uber.md",
+    "System Design Questions/Type ahead Suggestion.md",
+    "System Design Questions/Twitter Search.md",
+    "System Design Questions/Twitter.md",
+    "System Design Questions/Top Heavy Hitters.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/Proximity Service.md",
+    "System Design Questions/Nearby Friends.md",
+    "System Design Questions/Instagram.md",
     "System Design Questions/Google Maps.md",
-    "System Design Questions/Google Docs.md",
     "System Design Questions/Facebook Messenger.md",
     "System Design Questions/DropBox.md",
-    "System Design Questions/Ad Click Event Aggregation.md",
-    "Core Concepts/Pagination.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/Ticketmaster.md",
-    "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Twitter.md",
-    "System Design Questions/Twitter Search.md",
-    "System Design Questions/Uber.md",
-    "System Design Questions/Web Crawler.md",
+    "System Design Questions/Quora.md",
+    "System Design Questions/Pastebin.md",
+    "System Design Questions/Notification System.md",
     "Images/Distributed Cache Design.png",
     "Images/Distributed Cache Design.png",
     "Images/Pastebin Design.png",
@@ -217,7 +217,6 @@
     "Images/Email Receiving Design.png",
     "Images/Email Design.png",
     "Images/Typeahead Design 2.png",
-    "Images/Typeahead Design 1.png",
     "Quora",
     "topics",
     "Images/Instagram Design v2",
