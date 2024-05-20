@@ -4,45 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "40b9238cc38ae646",
+        "id": "aa2bfbdf95bf6c82",
         "type": "tabs",
         "children": [
           {
-            "id": "c8165ffac9304bac",
+            "id": "6db6d893c622cba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Type ahead Suggestion.md",
+                "file": "System Design Questions/Twitter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3373e4aa83791fd9",
+            "id": "7b8c5219c3dd887f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Questions/Distributed Message Queue.md",
+                "file": "System Design Questions/Ticketmaster.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5cbc73678b5cd3fd",
+            "id": "daef344b700f50cc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Uber Design.png"
+                "file": "System Design Questions/Job Scheduler.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 300
   },
   "right": {
     "id": "eb19f5fc2d75d2f2",
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Questions/Distributed Message Queue.md",
+                "file": "System Design Questions/Job Scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Questions/Distributed Message Queue.md",
+                "file": "System Design Questions/Job Scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Questions/Distributed Message Queue.md"
+                "file": "System Design Questions/Job Scheduler.md"
               }
             }
           },
@@ -180,52 +182,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3373e4aa83791fd9",
+  "active": "c1447b5bdba801b5",
   "lastOpenFiles": [
-    "Reading List.md",
-    "System Design Questions/Distributed Message Queue.md",
-    "System Design Questions/Ticketmaster.md",
-    "System Design Questions/Real-time Gaming Leader board.md",
-    "Images/Distributed Message Queue Design.png",
+    "Images/Job scheduler design.png",
     "Templates/System Design Template.md",
+    "System Design Questions/Job Scheduler.md",
     "README.md",
-    "System Design Questions/Youtube.md",
-    "System Design Questions/Web Crawler.md",
-    "System Design Questions/URL Shortening Service.md",
+    "Reading List.md",
+    "System Design Questions/Google Docs.md",
+    "System Design Questions/Key-Value Store.md",
+    "System Design Questions/News feed System.md",
     "System Design Questions/Unique ID Generator.md",
-    "System Design Questions/Uber.md",
-    "System Design Questions/Type ahead Suggestion.md",
-    "System Design Questions/Twitter Search.md",
     "System Design Questions/Twitter.md",
-    "System Design Questions/Top Heavy Hitters.md",
-    "System Design Questions/Rate Limiter.md",
-    "System Design Questions/Proximity Service.md",
-    "System Design Questions/Nearby Friends.md",
+    "System Design Questions/Youtube.md",
     "System Design Questions/Instagram.md",
-    "System Design Questions/Google Maps.md",
+    "System Design Questions/Web Crawler.md",
+    "Images/Ticketmaster Design.png",
+    "System Design Questions/Ticketmaster.md",
+    "System Design Questions/Hotel Reservation.md",
     "System Design Questions/Facebook Messenger.md",
-    "System Design Questions/DropBox.md",
-    "System Design Questions/Quora.md",
+    "System Design Questions/Real-time Gaming Leader board.md",
+    "System Design Questions/Rate Limiter.md",
+    "System Design Questions/Distributed Message Queue.md",
+    "Images/Distributed Message Queue Design.png",
     "System Design Questions/Pastebin.md",
     "System Design Questions/Notification System.md",
+    "System Design Questions/DropBox.md",
+    "References.md",
+    "System Design Questions/Distributed Email Service.md",
+    "System Design Questions/Ad Click Event Aggregation.md",
+    "Core Concepts/Pagination.md",
     "Images/Distributed Cache Design.png",
-    "Images/Distributed Cache Design.png",
-    "Images/Pastebin Design.png",
-    "Images/Key-value Write Design.png",
-    "Images/Key-value Read Design.png",
-    "Images/Email Sending Design.png",
-    "Images/Email Receiving Design.png",
-    "Images/Email Design.png",
+    "Images/Notification Design.png",
+    "Images/Youtube Design.png",
     "Images/Typeahead Design 2.png",
-    "Quora",
-    "topics",
+    "Images/Typeahead Design 1.png",
+    "Images/Pastebin Design.png",
+    "Images/Leetcode Design.png",
+    "Images/Leaderboard Design.png",
+    "Templates",
+    "Core Concepts",
+    "Images/Instagram Design v2.png.crswap",
+    "Images/Instagram Design v2.crswap",
     "Images/Instagram Design v2",
     "Whatsapp",
     "System Design Questions",
     "Images",
     "Google Docs",
-    "Untitled 1",
-    "Core Concepts",
-    "Makefile"
+    "Untitled 1"
   ]
 }

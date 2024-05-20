@@ -1,3 +1,4 @@
+
 ### Problem Description
 
 
@@ -42,6 +43,7 @@
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Gaming Service      | Determines score and then writes to score queue.                                                           |
 | Leaderboard Service | To read leaderboard and rank. No user should call Leaderboard service directly for writes, only for reads. |
+| Score event log     | (not queue)                                                                                                |
 
 
 

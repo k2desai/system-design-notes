@@ -57,5 +57,9 @@ API Gateway:
 8. Request deduplication
 9. Usage data collection
 
+Availability:
+1. If S3 - deploy across different availability zones 
+2. DNS will take care of routing to other region if one region is down 
+
 ### Open Questions:
 1. What is QPS / RPS of a typical server? 64000? - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/requirements-of-tinyurls-design

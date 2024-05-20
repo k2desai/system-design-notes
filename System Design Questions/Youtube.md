@@ -42,12 +42,12 @@ Design a system to store and serve videos. Use cases to cover:
 ### HLD
 ![[Youtube Design.png]]
 
-| Component        | Details                                                                                                               |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Original storage | Temporarily holds videos before preprocessing                                                                         |
-| Bigtable         | To store thumbnails because of high throughput and scalability for key-value data. Optimal for data items below 10 MB |
-| Encoders         | For video postprocessing, uploading to CDN and colocation servers.                                                    |
-| CDNs             | CDNs can hold the more popular videos for their respective regions                                                    |
+| Component        | Details                                                                                                                           |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Original storage | Temporarily holds videos before preprocessing                                                                                     |
+| Bigtable         | To store thumbnails because of high throughput and scalability for key-value data. Optimal for data items below 10 MB             |
+| Encoders         | For video postprocessing, uploading to CDN and colocation servers. Encoder is internally broken into 3 - video, audio, thumbnail. |
+| CDNs             | CDNs can hold the more popular videos for their respective regions                                                                |
 
 ### Database Choices
 1. Video and user metadata - Relational db - with primary-secondary replication. 

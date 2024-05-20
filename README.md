@@ -37,6 +37,7 @@
 - [ ] [[LeetCode]] - Done
 - [ ] [[Distributed Email Service]] - Done
 - [ ] [[Flash Sales]]
+- [ ] [[Job Scheduler]]
 
 - [ ] [[Payment System]] - 🔽 
 - [ ] [[Digital Wallet]] - 🔽 
