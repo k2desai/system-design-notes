@@ -40,12 +40,16 @@
 
 ![[Messenger Design.png]]
 
+![[Whatsapp Design.png]]
+
 **Chat Server Selection:**
 Option 1 - Consistent Hashing
 Decide a server based on a hash of user id. If any server goes down, all connections would move to the next server on the ring - might cause thundering herd - to solve this, use virtual servers on the ring, so all traffic does not get routed to a single server 
 
 Option 2 - Load balancing using Round Robin / Load based
 Regular load balancing algorithms - with the userId to server mapping being held in a database. 
+
+Option 3 - second diagram: Client gets assigned a chat server randomly from load balancer. It registers the user on chat server registry. This registry also serves as online/offline status manager. Then when client sends a message it goes to the queue. Flink reads from that queue and checks user status - if online - it sends message to that server. If offline it sends to notification system. Flink could also batch together all messages for a particular chat server host. 
 
 **Chatting flow:**
 1. Client logs in and looks up chat server 
