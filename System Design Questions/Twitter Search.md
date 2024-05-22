@@ -44,6 +44,7 @@
 ### Interesting Algorithms/Approaches
 1. You would need to batch the writes before writing them to the database. Could have an aggregator service to do this. You could only store write count when it passes milestones like power of 2/10, getting an approximate like count. 
 2. We can create our own reverse search index where the key is the word and value is the list of tweet ids that hold that word. Partition the data based on word hash. The lookups can be stored in DynamoDB
+3. We use document partitioning (makes writing of index easier). With term partitioning, when we have multi-word queries, then we would be searching across partitions in any case
 
 ### Scaling Challenges
 

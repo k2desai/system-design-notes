@@ -38,6 +38,7 @@
 - [ ] [[Distributed Email Service]] - Done
 - [ ] [[Flash Sales]]
 - [ ] [[Job Scheduler]]
+- [ ] [[Price Drop Tracker]]
 
 - [ ] [[Payment System]] - 🔽 
 - [ ] [[Digital Wallet]] - 🔽 
