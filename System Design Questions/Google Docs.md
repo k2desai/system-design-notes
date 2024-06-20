@@ -36,6 +36,8 @@
 ### HLD
 ![[Google Docs Design.png]]
 
+![[Google Docs Design Excalidraw.png]]
+
 | Component      | Detail                                                                                                                                  |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Pub-sub system | Notifications, emails, view counts, and comments are asynchronous operations that can be queued through a pub-sub component like Kafka. |
