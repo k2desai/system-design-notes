@@ -29,6 +29,7 @@
 ![[Images/Key-value Write Design.png]]
 ![[Key-value Read Design.png]]
 ![[Distributed Cache Design.png]]
+![[Key Value Design.png]]
 ### Database Choices
 
 

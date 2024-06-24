@@ -30,6 +30,8 @@
 ### HLD
 ![[Twitter Search Design.png]]
 
+![[Search Design.png]]
+
 | Component         | Detail                                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ElasticSearch     | Powerful search service based on Lucene which supports scaling, replication, creating arbitrary full-text indices on your data |

@@ -27,6 +27,7 @@ Design a system to manage privacy settings of posts and profile
 
 
 ### HLD
+![[Privacy Settings Design.png]]
 
 
 ### Database Choices
@@ -39,6 +40,7 @@ Design a system to manage privacy settings of posts and profile
 
 
 ### Deep Dive Topics
+1. Delete - invalidate entry in social graph and any feed reads should double check permissions 
 
 
 ### References
